@@ -1,5 +1,8 @@
 # hs-engine
 
+[![CI](https://github.com/jornith/hs-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/jornith/hs-engine/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 A one-turn Hearthstone simulator and turn search, with a Rust core and Python bindings.
 
 You give hs-engine a position and the cards in play. It lists every legal move and plays each one out:
