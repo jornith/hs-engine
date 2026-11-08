@@ -1,0 +1,20 @@
+{
+ "cards": 24334,
+ "cards_real": 1619,
+ "cases": {
+  "modeled": 18103,
+  "invariant": 4612,
+  "real_ok": 3915,
+  "real_miss": 1125
+ },
+ "fixture_agreement": 0.7768,
+ "corpus": {
+  "files": 3070,
+  "actions": 90020,
+  "exact": 73810,
+  "exact_rate": 0.8199,
+  "deterministic": 55830,
+  "deterministic_ok": 49776,
+  "deterministic_rate": 0.8916
+ }
+}
