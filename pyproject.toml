@@ -1,0 +1,41 @@
+[build-system]
+requires = ["maturin>=1.5,<2"]
+build-backend = "maturin"
+
+[project]
+name = "hsengine"
+version = "0.1.0"
+description = "Hearthstone turn simulator and search: card rules, game-log state, Rust engine"
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+requires-python = ">=3.10"
+dependencies = ["hearthstone>=9.0", "hslog>=1.20"]
+keywords = ["hearthstone", "simulator", "game-engine", "search"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Rust",
+    "Topic :: Games/Entertainment",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=8", "ruff==0.17.4"]
+
+[tool.maturin]
+manifest-path = "python/Cargo.toml"
+module-name = "hsengine._core"
+python-source = "."
+python-packages = ["hsengine"]
+features = ["extension-module"]
+include = ["hsengine/card_fx/*.json", "hsengine/summon_overrides.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py310"
+extend-exclude = ["target"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP"]
