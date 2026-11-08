@@ -1,0 +1,14 @@
+[package]
+name = "hs-engine"
+description = "One-turn Hearthstone rules engine and turn search"
+version.workspace = true
+license.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+readme = "../README.md"
+
+[lib]
+name = "hs_engine"
+
+[dependencies]
+rustc-hash = "2.1.3"
