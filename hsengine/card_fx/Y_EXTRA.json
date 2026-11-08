@@ -1,0 +1,389 @@
+{
+ "CATA_526": {
+  "play": [
+   {
+    "op": "aoe",
+    "n": 1,
+    "scope": "minions"
+   },
+   {
+    "op": "draw",
+    "n": 10
+   }
+  ]
+ },
+ "JAIL_206": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 3
+   },
+   {
+    "op": "opp_cards",
+    "n": 1
+   }
+  ]
+ },
+ "CORE_CS2_072": {
+  "play": [
+   {
+    "op": "dmg",
+    "n": 2,
+    "tgt": "any_minion",
+    "cond": "undamaged"
+   }
+  ]
+ },
+ "TIME_855": {
+  "play": [
+   {
+    "op": "dmg",
+    "n": 3,
+    "tgt": "enemy_char"
+   },
+   {
+    "op": "dmg_random_minions",
+    "n": 2,
+    "a": 2
+   }
+  ]
+ },
+ "JAIL_432": {
+  "play": [
+   {
+    "op": "aoe",
+    "n": 2,
+    "scope": "enemy_minions"
+   }
+  ]
+ },
+ "JAIL_125": {
+  "play": [
+   {
+    "op": "freeze",
+    "tgt": "enemy_char"
+   },
+   {
+    "op": "gen",
+    "n": 1
+   }
+  ]
+ },
+ "CATA_497": {
+  "play": [
+   {
+    "op": "value",
+    "n": 30
+   }
+  ]
+ },
+ "CORE_SW_066": {
+  "play": [
+   {
+    "op": "silence",
+    "tgt": "any_minion"
+   }
+  ]
+ },
+ "EDR_813": {
+  "modes": [
+   [
+    {
+     "op": "summon",
+     "n": 2,
+     "a": 1,
+     "h": 1
+    }
+   ],
+   [
+    {
+     "op": "dmg",
+     "n": 4,
+     "tgt": "any_minion"
+    }
+   ]
+  ]
+ },
+ "TIME_005t5": {
+  "play": [
+   {
+    "op": "buff",
+    "kw": [
+     "taunt"
+    ]
+   },
+   {
+    "op": "summon_copies",
+    "n": 1
+   }
+  ]
+ },
+ "CS3_022": {
+  "play": [
+   {
+    "op": "dmg",
+    "n": 2,
+    "tgt": "enemy_char"
+   }
+  ]
+ },
+ "TLC_813": {
+  "play": [
+   {
+    "op": "buff",
+    "h": 2,
+    "tgt": "friendly_minion"
+   },
+   {
+    "op": "buff",
+    "h": -2,
+    "tgt": "enemy_minion"
+   }
+  ]
+ },
+ "FIR_954": {
+  "play": [
+   {
+    "op": "dmg",
+    "n": 5,
+    "tgt": "any_minion"
+   },
+   {
+    "op": "draw",
+    "n": 1
+   }
+  ]
+ },
+ "JAIL_803": {
+  "play": [
+   {
+    "op": "freeze",
+    "tgt": "enemy_char"
+   },
+   {
+    "op": "draw",
+    "n": 2
+   },
+   {
+    "op": "value",
+    "n": 30
+   }
+  ]
+ },
+ "EDR_459": {
+  "play": [
+   {
+    "op": "aoe",
+    "n": 3,
+    "tgt": "friendly_minion",
+    "scope": "other_minions"
+   }
+  ],
+  "dr": [
+   {
+    "op": "aoe",
+    "n": 3,
+    "scope": "enemy_minions"
+   }
+  ]
+ },
+ "JAIL_327": {
+  "eot": [
+   {
+    "op": "value",
+    "n": 30
+   }
+  ],
+  "pv": 30.0
+ },
+ "JAIL_997": {
+  "play": [
+   {
+    "op": "buff",
+    "tgt": "any_minion"
+   },
+   {
+    "op": "buff",
+    "a": 3,
+    "h": 3,
+    "tgt": "friendly_minion"
+   }
+  ]
+ },
+ "TIME_700": {
+  "eot": [
+   {
+    "op": "summon",
+    "a": 3,
+    "h": 5,
+    "kw": [
+     "taunt"
+    ],
+    "cond": "temp"
+   }
+  ],
+  "pv": 30.0
+ },
+ "JAIL_307": {
+  "play": [
+   {
+    "op": "aoe",
+    "n": 2,
+    "scope": "minions"
+   },
+   {
+    "op": "aoe",
+    "n": 2,
+    "cond": "temp",
+    "scope": "minions"
+   }
+  ],
+  "pv": 20.0
+ },
+ "TIME_441": {
+  "play": [
+   {
+    "op": "dmg_random",
+    "n": 4
+   }
+  ]
+ },
+ "TLC_606": {
+  "play": [
+   {
+    "op": "dmg",
+    "n": 5,
+    "tgt": "enemy_minion",
+    "cond": "damaged"
+   },
+   {
+    "op": "armor",
+    "n": 5
+   }
+  ]
+ },
+ "FIR_908": {
+  "play": [
+   {
+    "op": "buff",
+    "a": 1,
+    "h": 2,
+    "kw": [
+     "rush"
+    ],
+    "tgt": "friendly_minion"
+   }
+  ]
+ },
+ "EDR_490": {
+  "modes": [
+   [
+    {
+     "op": "summon",
+     "n": 2,
+     "a": 3,
+     "h": 6,
+     "kw": [
+      "taunt"
+     ],
+     "cond": "temp"
+    }
+   ],
+   [
+    {
+     "op": "destroy",
+     "tgt": "enemy_minion"
+    }
+   ]
+  ]
+ },
+ "TIME_019": {
+  "play": [
+   {
+    "op": "aoe",
+    "n": 3,
+    "scope": "enemies"
+   }
+  ]
+ },
+ "TLC_444": {
+  "play": [
+   {
+    "op": "value",
+    "n": 30
+   }
+  ]
+ },
+ "TLC_517": {
+  "play": [
+   {
+    "op": "dmg",
+    "n": 1,
+    "tgt": "any_minion"
+   }
+  ]
+ },
+ "JAIL_EVENT_101hp": {
+  "play": [
+   {
+    "op": "dmg_random",
+    "n": 3
+   }
+  ],
+  "pv": 30.0
+ },
+ "CORE_BT_480": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   }
+  ]
+ },
+ "TIME_435": {
+  "play": [
+   {
+    "op": "steal_temp",
+    "tgt": "enemy_minion"
+   }
+  ]
+ },
+ "CORE_NEW1_027": {
+  "aura": [
+   1,
+   1
+  ]
+ },
+ "CORE_RLK_506": {
+  "play": [
+   {
+    "op": "corpse",
+    "n": 6
+   },
+   {
+    "op": "summon",
+    "n": 6,
+    "a": 1,
+    "h": 3,
+    "kw": [
+     "taunt"
+    ]
+   }
+  ]
+ },
+ "AV_218": {
+  "play": [
+   {
+    "op": "transform_all",
+    "a": 1,
+    "h": 1
+   }
+  ]
+ },
+ "CORE_EX1_162": {
+  "aura": [
+   1,
+   0
+  ]
+ }
+}

@@ -1,0 +1,2871 @@
+{
+"CATA_484": {
+"summons": [],
+"n": 431,
+"share": 1.0
+},
+"FIR_911": {
+"summons": [],
+"n": 312,
+"share": 0.949
+},
+"DFT_ALEX_COIN1": {
+"summons": [],
+"n": 15,
+"share": 1.0
+},
+"END_022": {
+"summons": [],
+"n": 330,
+"share": 0.997
+},
+"CORE_SW_108": {
+"summons": [],
+"n": 614,
+"share": 0.855
+},
+"CATA_458": {
+"summons": [],
+"n": 238,
+"share": 1.0
+},
+"TIME_855": {
+"summons": [],
+"n": 195,
+"share": 0.969
+},
+"CATA_452": {
+"summons": [
+[
+6,
+6
+]
+],
+"n": 449,
+"share": 0.886
+},
+"JAIL_514": {
+"summons": [],
+"n": 368,
+"share": 0.997
+},
+"JAIL_912": {
+"summons": [],
+"n": 400,
+"share": 0.99
+},
+"JAIL_513": {
+"summons": [],
+"n": 311,
+"share": 0.997
+},
+"JAIL_399": {
+"summons": [],
+"n": 217,
+"share": 1.0
+},
+"EDR_476": {
+"summons": [],
+"n": 249,
+"share": 0.98
+},
+"JAIL_515": {
+"summons": [],
+"n": 137,
+"share": 0.993
+},
+"TIME_432": {
+"summons": [],
+"n": 327,
+"share": 0.994
+},
+"CORE_EX1_197": {
+"summons": [],
+"n": 208,
+"share": 0.952
+},
+"GAME_005": {
+"summons": [],
+"n": 554,
+"share": 1.0
+},
+"TIME_031": {
+"summons": [],
+"n": 121,
+"share": 1.0
+},
+"CORE_EX1_302": {
+"summons": [],
+"n": 70,
+"share": 0.971
+},
+"TIME_890": {
+"summons": [],
+"n": 111,
+"share": 1.0
+},
+"TIME_890t": {
+"summons": [],
+"n": 85,
+"share": 1.0
+},
+"TIME_003": {
+"summons": [],
+"n": 175,
+"share": 1.0
+},
+"EDR_856": {
+"summons": [],
+"n": 377,
+"share": 1.0
+},
+"JAIL_122": {
+"summons": [],
+"n": 172,
+"share": 0.965
+},
+"DINO_COIN1": {
+"summons": [],
+"n": 116,
+"share": 0.966
+},
+"MEND_506": {
+"summons": [],
+"n": 98,
+"share": 1.0
+},
+"CORE_DS1_184": {
+"summons": [],
+"n": 29,
+"share": 0.966
+},
+"MEND_503": {
+"summons": [],
+"n": 89,
+"share": 1.0
+},
+"MEND_504": {
+"summons": [],
+"n": 165,
+"share": 0.988
+},
+"MEND_500": {
+"summons": [],
+"n": 108,
+"share": 0.991
+},
+"CORE_DRG_107": {
+"summons": [],
+"n": 405,
+"share": 0.998
+},
+"MEND_501": {
+"summons": [],
+"n": 96,
+"share": 1.0
+},
+"JAIL_321": {
+"summons": [],
+"n": 271,
+"share": 1.0
+},
+"CATA_614": {
+"summons": [],
+"n": 58,
+"share": 0.983
+},
+"EX1_277": {
+"summons": [],
+"n": 1457,
+"share": 0.895
+},
+"TIME_701": {
+"summons": [],
+"n": 227,
+"share": 0.991
+},
+"JAIL_872": {
+"summons": [],
+"n": 148,
+"share": 1.0
+},
+"JAIL_201": {
+"summons": [],
+"n": 170,
+"share": 0.994
+},
+"CORE_EX1_169": {
+"summons": [],
+"n": 195,
+"share": 0.995
+},
+"JAIL_875": {
+"summons": [],
+"n": 109,
+"share": 1.0
+},
+"FIR_907": {
+"summons": [],
+"n": 91,
+"share": 1.0
+},
+"END_007": {
+"summons": [],
+"n": 356,
+"share": 0.93
+},
+"CATA_131": {
+"summons": [],
+"n": 205,
+"share": 1.0
+},
+"TIME_702": {
+"summons": [],
+"n": 208,
+"share": 0.981
+},
+"JAIL_202": {
+"summons": [],
+"n": 215,
+"share": 1.0
+},
+"JAIL_436": {
+"summons": [],
+"n": 40,
+"share": 1.0
+},
+"JAIL_436t": {
+"summons": [],
+"n": 36,
+"share": 1.0
+},
+"JAIL_436t2": {
+"summons": [],
+"n": 31,
+"share": 1.0
+},
+"CATA_139": {
+"summons": [
+[
+0,
+2
+],
+[
+0,
+2
+],
+[
+0,
+2
+],
+[
+0,
+2
+]
+],
+"n": 71,
+"share": 0.972
+},
+"END_011": {
+"summons": [],
+"n": 235,
+"share": 1.0
+},
+"CATA_138": {
+"summons": [],
+"n": 14,
+"share": 1.0
+},
+"EDR_270": {
+"summons": [],
+"n": 76,
+"share": 1.0
+},
+"CATA_132": {
+"summons": [
+[
+3,
+3,
+"taunt"
+],
+[
+3,
+3,
+"taunt"
+]
+],
+"n": 13,
+"share": 1.0
+},
+"TLC_100": {
+"summons": [],
+"n": 119,
+"share": 1.0
+},
+"TLC_100t2": {
+"summons": [],
+"n": 33,
+"share": 1.0
+},
+"CORE_OG_047": {
+"summons": [],
+"n": 29,
+"share": 0.966
+},
+"TLC_817": {
+"summons": [],
+"n": 143,
+"share": 1.0
+},
+"CAP_801": {
+"summons": [],
+"n": 82,
+"share": 0.988
+},
+"CATA_308": {
+"summons": [],
+"n": 131,
+"share": 0.901
+},
+"TLC_816": {
+"summons": [],
+"n": 89,
+"share": 0.989
+},
+"CATA_302": {
+"summons": [],
+"n": 138,
+"share": 0.978
+},
+"CORE_BAR_311": {
+"summons": [],
+"n": 112,
+"share": 0.991
+},
+"CORE_CS2_004": {
+"summons": [],
+"n": 149,
+"share": 0.98
+},
+"TLC_817t5": {
+"summons": [
+[
+8,
+8,
+"taunt",
+"reborn"
+]
+],
+"n": 70,
+"share": 0.971
+},
+"JAIL_312": {
+"summons": [],
+"n": 456,
+"share": 0.91
+},
+"CORE_DMF_067": {
+"summons": [],
+"n": 79,
+"share": 1.0
+},
+"CATA_EVENT_401": {
+"summons": [],
+"n": 280,
+"share": 1.0
+},
+"TLC_364": {
+"summons": [],
+"n": 401,
+"share": 0.87
+},
+"CORE_DS1_185": {
+"summons": [],
+"n": 10,
+"share": 1.0
+},
+"CORE_EX1_238": {
+"summons": [],
+"n": 45,
+"share": 1.0
+},
+"TLC_900": {
+"summons": [],
+"n": 26,
+"share": 0.885
+},
+"CORE_BT_801": {
+"summons": [],
+"n": 90,
+"share": 0.911
+},
+"EDR_456": {
+"summons": [],
+"n": 131,
+"share": 1.0
+},
+"EDR_449": {
+"summons": [],
+"n": 340,
+"share": 1.0
+},
+"CAP_105": {
+"summons": [
+[
+1,
+1
+],
+[
+1,
+1
+]
+],
+"n": 181,
+"share": 0.983
+},
+"EDR_492": {
+"summons": [
+[
+1,
+1,
+"rush"
+],
+[
+1,
+1,
+"rush"
+],
+[
+1,
+1,
+"rush"
+]
+],
+"n": 139,
+"share": 0.986
+},
+"END_033": {
+"summons": [],
+"n": 141,
+"share": 1.0
+},
+"CORE_NEW1_022": {
+"summons": [],
+"n": 8,
+"share": 1.0
+},
+"TLC_600": {
+"summons": [],
+"n": 77,
+"share": 1.0
+},
+"JAIL_432": {
+"summons": [],
+"n": 223,
+"share": 0.996
+},
+"CAP_107": {
+"summons": [],
+"n": 204,
+"share": 0.995
+},
+"TIME_045": {
+"summons": [],
+"n": 22,
+"share": 0.955
+},
+"CAP_107t": {
+"summons": [],
+"n": 180,
+"share": 1.0
+},
+"CATA_303": {
+"summons": [],
+"n": 16,
+"share": 1.0
+},
+"CORE_CFM_790": {
+"summons": [],
+"n": 123,
+"share": 1.0
+},
+"TIME_427": {
+"summons": [],
+"n": 13,
+"share": 1.0
+},
+"TIME_890t2": {
+"summons": [],
+"n": 112,
+"share": 0.991
+},
+"TIME_034": {
+"summons": [],
+"n": 107,
+"share": 1.0
+},
+"CATA_584": {
+"summons": [],
+"n": 116,
+"share": 1.0
+},
+"CATA_528": {
+"summons": [],
+"n": 379,
+"share": 0.997
+},
+"JAIL_206": {
+"summons": [],
+"n": 450,
+"share": 0.856
+},
+"TIME_020t1": {
+"summons": [],
+"n": 258,
+"share": 0.992
+},
+"TIME_020t2": {
+"summons": [],
+"n": 307,
+"share": 0.984
+},
+"TIME_020t3": {
+"summons": [],
+"n": 239,
+"share": 0.975
+},
+"CORE_YOP_001": {
+"summons": [],
+"n": 533,
+"share": 0.996
+},
+"TLC_902": {
+"summons": [],
+"n": 487,
+"share": 0.988
+},
+"TLC_630t": {
+"summons": [
+[
+2,
+1,
+"rush"
+]
+],
+"n": 877,
+"share": 0.945
+},
+"TIME_020t4": {
+"summons": [],
+"n": 156,
+"share": 0.974
+},
+"CORE_UNG_205": {
+"summons": [],
+"n": 872,
+"share": 0.997
+},
+"JAIL_EVENT_101": {
+"summons": [],
+"n": 479,
+"share": 0.977
+},
+"END_008": {
+"summons": [],
+"n": 382,
+"share": 1.0
+},
+"CORE_TTN_843": {
+"summons": [],
+"n": 316,
+"share": 0.978
+},
+"FIR_929": {
+"summons": [],
+"n": 210,
+"share": 1.0
+},
+"JAIL_COIN2": {
+"summons": [],
+"n": 92,
+"share": 0.946
+},
+"TIME_020t5": {
+"summons": [],
+"n": 96,
+"share": 0.958
+},
+"CORE_ICC_055": {
+"summons": [],
+"n": 282,
+"share": 0.979
+},
+"JAIL_509": {
+"summons": [],
+"n": 56,
+"share": 1.0
+},
+"BAR_COIN2": {
+"summons": [],
+"n": 47,
+"share": 1.0
+},
+"TIME_020": {
+"summons": [],
+"n": 76,
+"share": 0.961
+},
+"JAIL_720": {
+"summons": [],
+"n": 544,
+"share": 0.998
+},
+"CATA_200": {
+"summons": [],
+"n": 571,
+"share": 0.993
+},
+"JAIL_503": {
+"summons": [],
+"n": 492,
+"share": 1.0
+},
+"CORE_EX1_145": {
+"summons": [],
+"n": 570,
+"share": 1.0
+},
+"TLC_515": {
+"summons": [],
+"n": 511,
+"share": 1.0
+},
+"TIME_875t1": {
+"summons": [],
+"n": 267,
+"share": 1.0
+},
+"CORE_CS2_072": {
+"summons": [],
+"n": 301,
+"share": 1.0
+},
+"SW_COIN2": {
+"summons": [],
+"n": 12,
+"share": 1.0
+},
+"JAIL_504": {
+"summons": [],
+"n": 403,
+"share": 0.98
+},
+"EDR_844": {
+"summons": [],
+"n": 63,
+"share": 1.0
+},
+"CATA_140": {
+"summons": [],
+"n": 52,
+"share": 1.0
+},
+"TIME_714": {
+"summons": [],
+"n": 15,
+"share": 1.0
+},
+"EDR_818": {
+"summons": [],
+"n": 14,
+"share": 1.0
+},
+"TIME_025": {
+"summons": [],
+"n": 14,
+"share": 1.0
+},
+"TIME_EVENT_999": {
+"summons": [],
+"n": 212,
+"share": 0.976
+},
+"CATA_785|h0|ROGUE": {
+"summons": [
+[
+1,
+1
+]
+],
+"n": 309,
+"share": 0.977
+},
+"CORE_EX1_129": {
+"summons": [],
+"n": 382,
+"share": 1.0
+},
+"CATA_785|h1|ROGUE": {
+"summons": [
+[
+1,
+1
+]
+],
+"n": 128,
+"share": 0.961
+},
+"CATA_497|h2|ROGUE": {
+"summons": [
+[
+2,
+2
+]
+],
+"n": 12,
+"share": 1.0
+},
+"END_024": {
+"summons": [],
+"n": 13,
+"share": 1.0
+},
+"TIME_039": {
+"summons": [],
+"n": 285,
+"share": 1.0
+},
+"EDR_528": {
+"summons": [],
+"n": 381,
+"share": 0.995
+},
+"JAIL_504t3": {
+"summons": [],
+"n": 849,
+"share": 1.0
+},
+"CATA_158|h3|ROGUE": {
+"summons": [],
+"n": 8,
+"share": 1.0
+},
+"JAIL_386": {
+"summons": [],
+"n": 11,
+"share": 1.0
+},
+"JAIL_892": {
+"summons": [],
+"n": 70,
+"share": 0.957
+},
+"CORE_BT_416": {
+"summons": [],
+"n": 49,
+"share": 1.0
+},
+"JAIL_987": {
+"summons": [],
+"n": 120,
+"share": 1.0
+},
+"TLC_464": {
+"summons": [],
+"n": 83,
+"share": 1.0
+},
+"DINO_412": {
+"summons": [],
+"n": 12,
+"share": 1.0
+},
+"CORE_GIL_836": {
+"summons": [],
+"n": 164,
+"share": 0.994
+},
+"EDR_780": {
+"summons": [
+[
+2,
+4
+]
+],
+"n": 10,
+"share": 0.9
+},
+"CATA_567": {
+"summons": [],
+"n": 82,
+"share": 0.988
+},
+"JAIL_801t": {
+"summons": [],
+"n": 85,
+"share": 0.988
+},
+"CATA_561t": {
+"summons": [],
+"n": 223,
+"share": 1.0
+},
+"CAP_407": {
+"summons": [],
+"n": 126,
+"share": 0.984
+},
+"CORE_EX1_246": {
+"summons": [],
+"n": 95,
+"share": 1.0
+},
+"JAIL_805t": {
+"summons": [],
+"n": 62,
+"share": 1.0
+},
+"CORE_WC_042": {
+"summons": [],
+"n": 31,
+"share": 1.0
+},
+"TIME_218": {
+"summons": [],
+"n": 232,
+"share": 0.961
+},
+"MUDAN_COIN1": {
+"summons": [],
+"n": 236,
+"share": 1.0
+},
+"TIME_713": {
+"summons": [],
+"n": 235,
+"share": 0.987
+},
+"TTN_851": {
+"summons": [],
+"n": 11,
+"share": 1.0
+},
+"EDR_571": {
+"summons": [],
+"n": 20,
+"share": 1.0
+},
+"CORE_ULD_723": {
+"summons": [],
+"n": 51,
+"share": 1.0
+},
+"CATA_210": {
+"summons": [],
+"n": 53,
+"share": 1.0
+},
+"CORE_RLK_121": {
+"summons": [],
+"n": 40,
+"share": 1.0
+},
+"EDR_816": {
+"summons": [],
+"n": 28,
+"share": 1.0
+},
+"RLK_503": {
+"summons": [],
+"n": 44,
+"share": 1.0
+},
+"TLC_443": {
+"summons": [],
+"n": 37,
+"share": 1.0
+},
+"JAIL_440": {
+"summons": [],
+"n": 44,
+"share": 1.0
+},
+"JAIL_850": {
+"summons": [],
+"n": 31,
+"share": 1.0
+},
+"TLC_436": {
+"summons": [],
+"n": 163,
+"share": 0.994
+},
+"JAIL_800": {
+"summons": [],
+"n": 45,
+"share": 1.0
+},
+"CORE_GIL_531": {
+"summons": [],
+"n": 45,
+"share": 0.978
+},
+"JAIL_458": {
+"summons": [],
+"n": 72,
+"share": 1.0
+},
+"END_029": {
+"summons": [],
+"n": 27,
+"share": 1.0
+},
+"JAIL_457": {
+"summons": [],
+"n": 26,
+"share": 1.0
+},
+"JAIL_803": {
+"summons": [],
+"n": 20,
+"share": 0.85
+},
+"DINO_406": {
+"summons": [],
+"n": 93,
+"share": 1.0
+},
+"CORE_EDR_003": {
+"summons": [],
+"n": 52,
+"share": 1.0
+},
+"DINO_417": {
+"summons": [],
+"n": 88,
+"share": 1.0
+},
+"JAIL_430": {
+"summons": [],
+"n": 66,
+"share": 0.985
+},
+"JAIL_446": {
+"summons": [],
+"n": 37,
+"share": 1.0
+},
+"TLC_829t": {
+"summons": [],
+"n": 16,
+"share": 1.0
+},
+"JAIL_COIN5": {
+"summons": [],
+"n": 160,
+"share": 0.988
+},
+"EDR_817": {
+"summons": [
+[
+0,
+2
+],
+[
+0,
+2
+]
+],
+"n": 8,
+"share": 1.0
+},
+"CATA_EVENT_402": {
+"summons": [],
+"n": 293,
+"share": 1.0
+},
+"TIME_875": {
+"summons": [],
+"n": 122,
+"share": 0.992
+},
+"CATA_203": {
+"summons": [],
+"n": 188,
+"share": 0.995
+},
+"EDR_COIN2": {
+"summons": [],
+"n": 62,
+"share": 1.0
+},
+"EDR_273": {
+"summons": [],
+"n": 22,
+"share": 1.0
+},
+"DINO_136": {
+"summons": [
+[
+2,
+1,
+"rush"
+],
+[
+2,
+1,
+"rush"
+],
+[
+2,
+1,
+"rush"
+]
+],
+"n": 122,
+"share": 0.992
+},
+"CATA_561|h0|SHAMAN": {
+"summons": [
+[
+1,
+2
+]
+],
+"n": 71,
+"share": 1.0
+},
+"CS3_022": {
+"summons": [],
+"n": 27,
+"share": 1.0
+},
+"JAIL_434": {
+"summons": [],
+"n": 36,
+"share": 1.0
+},
+"RLK_061": {
+"summons": [],
+"n": 57,
+"share": 1.0
+},
+"JAIL_450": {
+"summons": [],
+"n": 103,
+"share": 0.932
+},
+"WW_COIN1": {
+"summons": [],
+"n": 34,
+"share": 1.0
+},
+"CATA_471": {
+"summons": [],
+"n": 27,
+"share": 1.0
+},
+"RLK_707": {
+"summons": [],
+"n": 37,
+"share": 1.0
+},
+"CATA_556": {
+"summons": [],
+"n": 156,
+"share": 1.0
+},
+"CORE_EX1_189": {
+"summons": [],
+"n": 18,
+"share": 1.0
+},
+"TIME_875t": {
+"summons": [],
+"n": 125,
+"share": 0.952
+},
+"CATA_785|h2|ROGUE": {
+"summons": [
+[
+2,
+2
+]
+],
+"n": 33,
+"share": 0.97
+},
+"CORE_SW_066": {
+"summons": [],
+"n": 90,
+"share": 0.989
+},
+"GDB_COIN2": {
+"summons": [],
+"n": 12,
+"share": 1.0
+},
+"TIME_215": {
+"summons": [],
+"n": 113,
+"share": 0.947
+},
+"JAIL_327": {
+"summons": [],
+"n": 11,
+"share": 1.0
+},
+"CORE_ICC_038": {
+"summons": [],
+"n": 13,
+"share": 0.923
+},
+"TLC_438": {
+"summons": [],
+"n": 9,
+"share": 1.0
+},
+"REV_COIN2": {
+"summons": [],
+"n": 44,
+"share": 1.0
+},
+"Core_LOE_115": {
+"summons": [],
+"n": 11,
+"share": 0.909
+},
+"EDR_846": {
+"summons": [],
+"n": 70,
+"share": 0.943
+},
+"DREAM_02": {
+"summons": [],
+"n": 42,
+"share": 0.929
+},
+"DREAM_04": {
+"summons": [],
+"n": 52,
+"share": 0.962
+},
+"DINO_410": {
+"summons": [],
+"n": 51,
+"share": 1.0
+},
+"BE_EVENT_100": {
+"summons": [],
+"n": 63,
+"share": 1.0
+},
+"JAIL_998": {
+"summons": [],
+"n": 36,
+"share": 1.0
+},
+"DINO_411": {
+"summons": [],
+"n": 69,
+"share": 1.0
+},
+"TLC_EVENT_402": {
+"summons": [],
+"n": 27,
+"share": 1.0
+},
+"CORE_NEW1_020": {
+"summons": [],
+"n": 41,
+"share": 1.0
+},
+"CORE_AT_037": {
+"summons": [],
+"n": 23,
+"share": 0.87
+},
+"CATA_488": {
+"summons": [
+[
+1,
+5
+],
+[
+1,
+5
+]
+],
+"n": 60,
+"share": 0.983
+},
+"FIR_954": {
+"summons": [],
+"n": 20,
+"share": 0.9
+},
+"CORE_CS2_108": {
+"summons": [],
+"n": 13,
+"share": 0.923
+},
+"TTN_COIN2": {
+"summons": [],
+"n": 151,
+"share": 0.954
+},
+"TLC_478": {
+"summons": [],
+"n": 13,
+"share": 1.0
+},
+"TOY_COIN3": {
+"summons": [],
+"n": 31,
+"share": 1.0
+},
+"CORE_RLK_814": {
+"summons": [],
+"n": 17,
+"share": 1.0
+},
+"EDR_970": {
+"summons": [],
+"n": 255,
+"share": 0.996
+},
+"TLC_820": {
+"summons": [],
+"n": 24,
+"share": 1.0
+},
+"JAIL_433": {
+"summons": [],
+"n": 253,
+"share": 0.988
+},
+"JAIL_941": {
+"summons": [],
+"n": 116,
+"share": 0.991
+},
+"JAIL_421": {
+"summons": [],
+"n": 31,
+"share": 0.968
+},
+"EDR_457": {
+"summons": [],
+"n": 139,
+"share": 0.986
+},
+"JAIL_941t": {
+"summons": [],
+"n": 94,
+"share": 0.989
+},
+"FIR_939": {
+"summons": [],
+"n": 164,
+"share": 1.0
+},
+"JAIL_455": {
+"summons": [],
+"n": 9,
+"share": 0.889
+},
+"CORE_BT_701": {
+"summons": [],
+"n": 19,
+"share": 1.0
+},
+"TLC_100t1": {
+"summons": [],
+"n": 62,
+"share": 1.0
+},
+"CAP_000": {
+"summons": [],
+"n": 18,
+"share": 1.0
+},
+"CATA_158|h1|ROGUE": {
+"summons": [],
+"n": 28,
+"share": 1.0
+},
+"CAP_402": {
+"summons": [],
+"n": 10,
+"share": 1.0
+},
+"DMF_COIN2": {
+"summons": [],
+"n": 41,
+"share": 1.0
+},
+"CATA_585": {
+"summons": [],
+"n": 302,
+"share": 0.99
+},
+"CATA_111": {
+"summons": [],
+"n": 34,
+"share": 1.0
+},
+"TIME_056": {
+"summons": [],
+"n": 16,
+"share": 0.938
+},
+"CATA_582": {
+"summons": [],
+"n": 160,
+"share": 0.881
+},
+"CORE_WON_351": {
+"summons": [],
+"n": 9,
+"share": 1.0
+},
+"CORE_SCH_713": {
+"summons": [],
+"n": 60,
+"share": 0.983
+},
+"END_027": {
+"summons": [],
+"n": 39,
+"share": 0.949
+},
+"CORE_EX1_012": {
+"summons": [],
+"n": 100,
+"share": 0.98
+},
+"FIR_920": {
+"summons": [],
+"n": 10,
+"share": 1.0
+},
+"JAIL_COIN3": {
+"summons": [],
+"n": 35,
+"share": 0.971
+},
+"TIME_431": {
+"summons": [],
+"n": 21,
+"share": 1.0
+},
+"CORE_EX1_193": {
+"summons": [],
+"n": 44,
+"share": 1.0
+},
+"CATA_785|h0|PRIEST": {
+"summons": [
+[
+1,
+1
+]
+],
+"n": 20,
+"share": 1.0
+},
+"JAIL_909": {
+"summons": [],
+"n": 26,
+"share": 0.923
+},
+"CORE_AT_055": {
+"summons": [],
+"n": 36,
+"share": 0.972
+},
+"CAP_802": {
+"summons": [
+[
+2,
+1,
+"reborn"
+]
+],
+"n": 30,
+"share": 0.967
+},
+"CAP_405": {
+"summons": [],
+"n": 159,
+"share": 1.0
+},
+"CAP_405tb2": {
+"summons": [],
+"n": 74,
+"share": 1.0
+},
+"EDR_527": {
+"summons": [],
+"n": 111,
+"share": 1.0
+},
+"CORE_CS2_062": {
+"summons": [],
+"n": 194,
+"share": 0.964
+},
+"TIME_COIN1": {
+"summons": [],
+"n": 69,
+"share": 1.0
+},
+"CATA_COIN6": {
+"summons": [],
+"n": 81,
+"share": 1.0
+},
+"FIR_927": {
+"summons": [],
+"n": 25,
+"share": 1.0
+},
+"CATA_487": {
+"summons": [],
+"n": 41,
+"share": 1.0
+},
+"CORE_KAR_061": {
+"summons": [],
+"n": 16,
+"share": 1.0
+},
+"TSC_COIN1": {
+"summons": [],
+"n": 86,
+"share": 1.0
+},
+"DINO_401": {
+"summons": [],
+"n": 19,
+"share": 1.0
+},
+"CORE_BAR_801": {
+"summons": [
+[
+1,
+1,
+"rush"
+]
+],
+"n": 20,
+"share": 0.9
+},
+"CATA_557": {
+"summons": [],
+"n": 8,
+"share": 1.0
+},
+"CAP_005": {
+"summons": [],
+"n": 17,
+"share": 1.0
+},
+"EDR_978": {
+"summons": [],
+"n": 14,
+"share": 0.929
+},
+"MEND_046": {
+"summons": [],
+"n": 88,
+"share": 1.0
+},
+"DREAM_01": {
+"summons": [],
+"n": 26,
+"share": 1.0
+},
+"DREAM_05": {
+"summons": [],
+"n": 47,
+"share": 0.936
+},
+"DREAM_03": {
+"summons": [],
+"n": 17,
+"share": 1.0
+},
+"CATA_201": {
+"summons": [],
+"n": 39,
+"share": 1.0
+},
+"JAIL_803t": {
+"summons": [],
+"n": 89,
+"share": 1.0
+},
+"CORE_ETC_111": {
+"summons": [],
+"n": 17,
+"share": 1.0
+},
+"TLC_427": {
+"summons": [],
+"n": 20,
+"share": 1.0
+},
+"WW_001t": {
+"summons": [],
+"n": 12,
+"share": 0.917
+},
+"DINO_COIN2": {
+"summons": [],
+"n": 63,
+"share": 0.968
+},
+"JAIL_511": {
+"summons": [],
+"n": 211,
+"share": 1.0
+},
+"CATA_725|h0|WARLOCK": {
+"summons": [
+[
+1,
+1
+]
+],
+"n": 137,
+"share": 0.993
+},
+"CATA_492|h1|WARLOCK": {
+"summons": [],
+"n": 19,
+"share": 1.0
+},
+"TLC_451": {
+"summons": [],
+"n": 216,
+"share": 1.0
+},
+"CATA_492|h2|WARLOCK": {
+"summons": [],
+"n": 8,
+"share": 1.0
+},
+"FIR_906": {
+"summons": [],
+"n": 13,
+"share": 1.0
+},
+"CORE_RLK_657": {
+"summons": [],
+"n": 26,
+"share": 0.962
+},
+"CATA_999": {
+"summons": [],
+"n": 51,
+"share": 0.98
+},
+"EDR_000": {
+"summons": [],
+"n": 68,
+"share": 1.0
+},
+"FIR_777": {
+"summons": [],
+"n": 30,
+"share": 1.0
+},
+"END_026": {
+"summons": [],
+"n": 9,
+"share": 1.0
+},
+"TIME_005t1": {
+"summons": [],
+"n": 73,
+"share": 1.0
+},
+"TIME_005t2": {
+"summons": [],
+"n": 55,
+"share": 1.0
+},
+"TIME_005t3": {
+"summons": [],
+"n": 36,
+"share": 1.0
+},
+"TIME_005t6": {
+"summons": [],
+"n": 53,
+"share": 0.943
+},
+"DINO_131": {
+"summons": [],
+"n": 33,
+"share": 1.0
+},
+"TIME_005t7": {
+"summons": [],
+"n": 35,
+"share": 1.0
+},
+"TIME_005t8": {
+"summons": [],
+"n": 51,
+"share": 1.0
+},
+"TIME_005t9": {
+"summons": [],
+"n": 24,
+"share": 1.0
+},
+"CORE_EX1_007": {
+"summons": [],
+"n": 9,
+"share": 0.889
+},
+"TLC_814": {
+"summons": [],
+"n": 20,
+"share": 1.0
+},
+"CAP_104": {
+"summons": [],
+"n": 54,
+"share": 0.944
+},
+"EDR_523": {
+"summons": [
+[
+4,
+4,
+"stealth"
+]
+],
+"n": 20,
+"share": 1.0
+},
+"CATA_215": {
+"summons": [],
+"n": 19,
+"share": 1.0
+},
+"CORE_BT_187": {
+"summons": [],
+"n": 12,
+"share": 1.0
+},
+"CAP_405tb3": {
+"summons": [],
+"n": 28,
+"share": 1.0
+},
+"CATA_492|h0|WARLOCK": {
+"summons": [],
+"n": 53,
+"share": 1.0
+},
+"CATA_725|h1|WARLOCK": {
+"summons": [
+[
+1,
+1
+]
+],
+"n": 55,
+"share": 0.964
+},
+"CATA_190h|h4|WARLOCK": {
+"summons": [
+[
+12,
+12
+]
+],
+"n": 19,
+"share": 1.0
+},
+"CATA_COIN2": {
+"summons": [],
+"n": 10,
+"share": 1.0
+},
+"JAIL_303": {
+"summons": [],
+"n": 21,
+"share": 1.0
+},
+"CORE_AT_123": {
+"summons": [],
+"n": 9,
+"share": 1.0
+},
+"FIR_902": {
+"summons": [],
+"n": 12,
+"share": 0.917
+},
+"EDR_272": {
+"summons": [],
+"n": 11,
+"share": 1.0
+},
+"TLC_811": {
+"summons": [],
+"n": 14,
+"share": 1.0
+},
+"EDR_846t4": {
+"summons": [],
+"n": 24,
+"share": 1.0
+},
+"EDR_846t3": {
+"summons": [],
+"n": 18,
+"share": 1.0
+},
+"EDR_846t1": {
+"summons": [],
+"n": 23,
+"share": 1.0
+},
+"TLC_100t3": {
+"summons": [],
+"n": 13,
+"share": 1.0
+},
+"EDR_846t2": {
+"summons": [],
+"n": 15,
+"share": 1.0
+},
+"CORE_SW_429": {
+"summons": [
+[
+2,
+7,
+"taunt"
+],
+[
+2,
+7,
+"taunt"
+]
+],
+"n": 9,
+"share": 0.889
+},
+"CORE_BT_480": {
+"summons": [],
+"n": 110,
+"share": 0.909
+},
+"JAIL_399t1": {
+"summons": [],
+"n": 10,
+"share": 1.0
+},
+"EDR_570": {
+"summons": [],
+"n": 11,
+"share": 1.0
+},
+"TOY_COIN2": {
+"summons": [],
+"n": 45,
+"share": 1.0
+},
+"CAP_003": {
+"summons": [],
+"n": 22,
+"share": 1.0
+},
+"TLC_522": {
+"summons": [],
+"n": 24,
+"share": 1.0
+},
+"CATA_216": {
+"summons": [],
+"n": 34,
+"share": 1.0
+},
+"JAIL_448": {
+"summons": [],
+"n": 10,
+"share": 1.0
+},
+"CATA_304": {
+"summons": [],
+"n": 16,
+"share": 1.0
+},
+"CORE_SW_072": {
+"summons": [],
+"n": 91,
+"share": 1.0
+},
+"CORE_ULD_178": {
+"summons": [],
+"n": 9,
+"share": 1.0
+},
+"VAC_COIN2": {
+"summons": [],
+"n": 22,
+"share": 0.955
+},
+"CORE_REV_990": {
+"summons": [],
+"n": 116,
+"share": 1.0
+},
+"CORE_CS2_094": {
+"summons": [],
+"n": 8,
+"share": 1.0
+},
+"CATA_COIN1": {
+"summons": [],
+"n": 23,
+"share": 1.0
+},
+"CORE_CS1_112": {
+"summons": [],
+"n": 31,
+"share": 0.935
+},
+"CATA_497|h3|ROGUE": {
+"summons": [
+[
+2,
+2
+]
+],
+"n": 8,
+"share": 1.0
+},
+"CATA_190h|h4|ROGUE": {
+"summons": [
+[
+12,
+12
+]
+],
+"n": 9,
+"share": 1.0
+},
+"CATA_533": {
+"summons": [],
+"n": 50,
+"share": 1.0
+},
+"BT_COIN": {
+"summons": [],
+"n": 41,
+"share": 1.0
+},
+"TLC_482": {
+"summons": [
+[
+2,
+1
+],
+[
+2,
+1
+]
+],
+"n": 22,
+"share": 0.864
+},
+"CATA_158|h0|ROGUE": {
+"summons": [],
+"n": 49,
+"share": 1.0
+},
+"AV_COIN2": {
+"summons": [],
+"n": 47,
+"share": 1.0
+},
+"CATA_497|h1|ROGUE": {
+"summons": [
+[
+1,
+1
+]
+],
+"n": 16,
+"share": 1.0
+},
+"RLK_708": {
+"summons": [],
+"n": 62,
+"share": 1.0
+},
+"CATA_780|h0|DEATHKNIGHT": {
+"summons": [
+[
+1,
+1
+]
+],
+"n": 25,
+"share": 1.0
+},
+"CATA_722|h1|DEATHKNIGHT": {
+"summons": [
+[
+1,
+1
+]
+],
+"n": 16,
+"share": 1.0
+},
+"CATA_156|h2|DEATHKNIGHT": {
+"summons": [
+[
+2,
+2
+]
+],
+"n": 21,
+"share": 0.952
+},
+"CATA_780|h3|DEATHKNIGHT": {
+"summons": [
+[
+2,
+2
+]
+],
+"n": 8,
+"share": 0.875
+},
+"EDR_814": {
+"summons": [
+[
+0,
+2
+]
+],
+"n": 78,
+"share": 0.974
+},
+"JAIL_123": {
+"summons": [],
+"n": 23,
+"share": 1.0
+},
+"JAIL_802": {
+"summons": [],
+"n": 21,
+"share": 1.0
+},
+"EDR_895": {
+"summons": [],
+"n": 8,
+"share": 1.0
+},
+"JAIL_733": {
+"summons": [],
+"n": 38,
+"share": 0.974
+},
+"JAIL_719": {
+"summons": [],
+"n": 18,
+"share": 1.0
+},
+"JAIL_730": {
+"summons": [],
+"n": 33,
+"share": 1.0
+},
+"CORE_CS1_130": {
+"summons": [],
+"n": 33,
+"share": 0.97
+},
+"TLC_819": {
+"summons": [],
+"n": 8,
+"share": 1.0
+},
+"EDR_852": {
+"summons": [],
+"n": 46,
+"share": 0.978
+},
+"TIME_433": {
+"summons": [],
+"n": 16,
+"share": 1.0
+},
+"CORE_BAR_310": {
+"summons": [],
+"n": 12,
+"share": 1.0
+},
+"CORE_EX1_619": {
+"summons": [],
+"n": 11,
+"share": 0.909
+},
+"FIR_916": {
+"summons": [],
+"n": 14,
+"share": 1.0
+},
+"CORE_NEW1_023": {
+"summons": [],
+"n": 12,
+"share": 1.0
+},
+"CAP_106": {
+"summons": [
+[
+1,
+1
+],
+[
+1,
+1
+]
+],
+"n": 61,
+"share": 0.984
+},
+"VAC_COIN1": {
+"summons": [],
+"n": 12,
+"share": 1.0
+},
+"TIME_429": {
+"summons": [],
+"n": 15,
+"share": 1.0
+},
+"FIR_918": {
+"summons": [],
+"n": 10,
+"share": 1.0
+},
+"TIME_001": {
+"summons": [],
+"n": 9,
+"share": 1.0
+},
+"CORE_CS2_009": {
+"summons": [],
+"n": 14,
+"share": 1.0
+},
+"CORE_UNG_848": {
+"summons": [],
+"n": 8,
+"share": 1.0
+},
+"EDR_462": {
+"summons": [],
+"n": 12,
+"share": 1.0
+},
+"EDR_522": {
+"summons": [],
+"n": 10,
+"share": 1.0
+},
+"TIME_052": {
+"summons": [],
+"n": 13,
+"share": 1.0
+},
+"TLC_245": {
+"summons": [],
+"n": 13,
+"share": 1.0
+},
+"JAIL_EVENT_COIN": {
+"summons": [],
+"n": 22,
+"share": 0.955
+},
+"CAP_404": {
+"summons": [],
+"n": 60,
+"share": 1.0
+},
+"BE_036": {
+"summons": [],
+"n": 73,
+"share": 1.0
+},
+"TIME_064": {
+"summons": [],
+"n": 30,
+"share": 1.0
+},
+"JAIL_384": {
+"summons": [],
+"n": 20,
+"share": 1.0
+},
+"CATA_721": {
+"summons": [],
+"n": 13,
+"share": 1.0
+},
+"CORE_EX1_391": {
+"summons": [],
+"n": 28,
+"share": 0.964
+},
+"CORE_EX1_606": {
+"summons": [],
+"n": 18,
+"share": 1.0
+},
+"FIR_900": {
+"summons": [],
+"n": 8,
+"share": 1.0
+},
+"CORE_EX1_154": {
+"summons": [],
+"n": 17,
+"share": 0.941
+},
+"EDR_848": {
+"summons": [],
+"n": 19,
+"share": 0.947
+},
+"TIME_028": {
+"summons": [],
+"n": 8,
+"share": 1.0
+},
+"CATA_722|h0|DEATHKNIGHT": {
+"summons": [
+[
+1,
+1
+]
+],
+"n": 19,
+"share": 1.0
+},
+"CAP_803": {
+"summons": [],
+"n": 16,
+"share": 1.0
+},
+"CATA_190h|h4|DEATHKNIGHT": {
+"summons": [
+[
+12,
+12
+]
+],
+"n": 10,
+"share": 1.0
+},
+"CORE_EDR_002": {
+"summons": [],
+"n": 34,
+"share": 0.912
+},
+"END_021": {
+"summons": [],
+"n": 15,
+"share": 1.0
+},
+"CORE_NX2_028": {
+"summons": [],
+"n": 17,
+"share": 0.941
+},
+"TIME_COIN2": {
+"summons": [],
+"n": 32,
+"share": 1.0
+},
+"TIME_700": {
+"summons": [],
+"n": 10,
+"share": 1.0
+},
+"CATA_785|h3|ROGUE": {
+"summons": [
+[
+2,
+2
+]
+],
+"n": 9,
+"share": 1.0
+},
+"TIME_444": {
+"summons": [],
+"n": 21,
+"share": 1.0
+},
+"CORE_BT_035": {
+"summons": [],
+"n": 17,
+"share": 0.941
+},
+"JAIL_328": {
+"summons": [],
+"n": 23,
+"share": 1.0
+},
+"FIR_914": {
+"summons": [],
+"n": 8,
+"share": 1.0
+},
+"JAIL_891": {
+"summons": [],
+"n": 37,
+"share": 0.973
+},
+"JAIL_EVENT_100": {
+"summons": [],
+"n": 23,
+"share": 1.0
+},
+"TLC_231": {
+"summons": [],
+"n": 11,
+"share": 1.0
+},
+"TSC_COIN2": {
+"summons": [],
+"n": 15,
+"share": 1.0
+},
+"CATA_724": {
+"summons": [],
+"n": 8,
+"share": 1.0
+},
+"CATA_570": {
+"summons": [],
+"n": 12,
+"share": 1.0
+},
+"TIME_005t4": {
+"summons": [],
+"n": 56,
+"share": 1.0
+},
+"TIME_021": {
+"summons": [],
+"n": 47,
+"share": 1.0
+},
+"MEND_505": {
+"summons": [],
+"n": 41,
+"share": 1.0
+},
+"CATA_561|h0|PRIEST": {
+"summons": [
+[
+1,
+2
+]
+],
+"n": 8,
+"share": 1.0
+},
+"CORE_CFM_604": {
+"summons": [],
+"n": 27,
+"share": 0.963
+},
+"EDR_489": {
+"summons": [],
+"n": 36,
+"share": 1.0
+},
+"CORE_ULD_191": {
+"summons": [],
+"n": 18,
+"share": 1.0
+},
+"CATA_725|h2|WARLOCK": {
+"summons": [
+[
+2,
+2
+]
+],
+"n": 18,
+"share": 1.0
+},
+"EDR_465": {
+"summons": [],
+"n": 21,
+"share": 1.0
+},
+"CATA_494": {
+"summons": [],
+"n": 9,
+"share": 1.0
+},
+"CORE_DRG_079": {
+"summons": [],
+"n": 9,
+"share": 1.0
+},
+"TIME_EVENT_COIN": {
+"summons": [],
+"n": 13,
+"share": 1.0
+},
+"CORE_SW_442": {
+"summons": [],
+"n": 14,
+"share": 1.0
+},
+"CAP_002": {
+"summons": [],
+"n": 9,
+"share": 1.0
+},
+"TLC_888": {
+"summons": [],
+"n": 12,
+"share": 1.0
+},
+"CORE_UNG_809": {
+"summons": [],
+"n": 30,
+"share": 1.0
+},
+"UNG_809t1": {
+"summons": [],
+"n": 22,
+"share": 1.0
+},
+"TLC_223": {
+"summons": [],
+"n": 10,
+"share": 1.0
+},
+"CORE_NEW1_027": {
+"summons": [],
+"n": 10,
+"share": 1.0
+},
+"CATA_307": {
+"summons": [],
+"n": 9,
+"share": 1.0
+},
+"ETC_COIN2": {
+"summons": [],
+"n": 9,
+"share": 1.0
+},
+"CORE_DRG_024": {
+"summons": [],
+"n": 45,
+"share": 1.0
+},
+"JAIL_407": {
+"summons": [],
+"n": 24,
+"share": 1.0
+},
+"MEND_043": {
+"summons": [],
+"n": 27,
+"share": 1.0
+},
+"EDR_COIN1": {
+"summons": [],
+"n": 16,
+"share": 1.0
+},
+"TLC_833": {
+"summons": [],
+"n": 8,
+"share": 1.0
+},
+"RLK_025": {
+"summons": [],
+"n": 17,
+"share": 0.941
+},
+"DINO_435": {
+"summons": [
+[
+3,
+4
+]
+],
+"n": 24,
+"share": 0.917
+},
+"JAIL_942": {
+"summons": [],
+"n": 19,
+"share": 1.0
+},
+"EDR_485": {
+"summons": [],
+"n": 33,
+"share": 1.0
+},
+"TIME_030": {
+"summons": [],
+"n": 34,
+"share": 1.0
+},
+"CATA_780|h1|DEATHKNIGHT": {
+"summons": [
+[
+1,
+1
+]
+],
+"n": 9,
+"share": 1.0
+},
+"TIME_618": {
+"summons": [],
+"n": 12,
+"share": 1.0
+},
+"CORE_RLK_066": {
+"summons": [],
+"n": 24,
+"share": 0.958
+},
+"CORE_EX1_414": {
+"summons": [],
+"n": 9,
+"share": 1.0
+},
+"TIME_024": {
+"summons": [],
+"n": 9,
+"share": 1.0
+},
+"TIME_057": {
+"summons": [],
+"n": 9,
+"share": 1.0
+},
+"AV_COIN1": {
+"summons": [],
+"n": 18,
+"share": 1.0
+},
+"CORE_CS2_029": {
+"summons": [],
+"n": 21,
+"share": 0.857
+},
+"TIME_447": {
+"summons": [],
+"n": 40,
+"share": 1.0
+},
+"BE_EVENT_102": {
+"summons": [],
+"n": 12,
+"share": 1.0
+},
+"CATA_300": {
+"summons": [
+[
+2,
+2
+],
+[
+2,
+2
+],
+[
+2,
+2
+]
+],
+"n": 28,
+"share": 1.0
+},
+"CATA_156|h1|DEATHKNIGHT": {
+"summons": [
+[
+1,
+1
+]
+],
+"n": 11,
+"share": 1.0
+},
+"TIME_612": {
+"summons": [],
+"n": 12,
+"share": 1.0
+},
+"JAIL_801": {
+"summons": [],
+"n": 24,
+"share": 0.958
+},
+"CATA_COIN3": {
+"summons": [],
+"n": 18,
+"share": 0.944
+},
+"CAP_102": {
+"summons": [
+[
+1,
+1
+],
+[
+1,
+1
+]
+],
+"n": 28,
+"share": 1.0
+},
+"CAP_103": {
+"summons": [],
+"n": 21,
+"share": 1.0
+},
+"CATA_725|h3|WARLOCK": {
+"summons": [
+[
+2,
+2
+]
+],
+"n": 10,
+"share": 1.0
+},
+"ETC_COIN1": {
+"summons": [],
+"n": 29,
+"share": 1.0
+},
+"CATA_554": {
+"summons": [],
+"n": 8,
+"share": 1.0
+},
+"JAIL_474": {
+"summons": [],
+"n": 9,
+"share": 1.0
+},
+"CORE_CS2_023": {
+"summons": [],
+"n": 11,
+"share": 1.0
+},
+"END_036": {
+"summons": [],
+"n": 10,
+"share": 1.0
+},
+"END_010": {
+"summons": [],
+"n": 10,
+"share": 1.0
+},
+"CATA_COIN4": {
+"summons": [],
+"n": 23,
+"share": 1.0
+},
+"EDR_482": {
+"summons": [],
+"n": 18,
+"share": 1.0
+},
+"EDR_260": {
+"summons": [],
+"n": 8,
+"share": 1.0
+},
+"TIME_037": {
+"summons": [],
+"n": 11,
+"share": 1.0
+},
+"TLC_256": {
+"summons": [],
+"n": 10,
+"share": 1.0
+},
+"FIR_956": {
+"summons": [],
+"n": 10,
+"share": 1.0
+},
+"CATA_301": {
+"summons": [],
+"n": 16,
+"share": 1.0
+},
+"END_030": {
+"summons": [],
+"n": 10,
+"share": 1.0
+},
+"TIME_715": {
+"summons": [],
+"n": 21,
+"share": 0.952
+},
+"TIME_214": {
+"summons": [],
+"n": 12,
+"share": 1.0
+},
+"RLK_COIN1": {
+"summons": [],
+"n": 11,
+"share": 1.0
+},
+"TLC_COIN1": {
+"summons": [],
+"n": 8,
+"share": 1.0
+},
+"CORE_ICC_210": {
+"summons": [],
+"n": 27,
+"share": 1.0
+},
+"EDR_460": {
+"summons": [],
+"n": 14,
+"share": 1.0
+},
+"TIME_027": {
+"summons": [],
+"n": 23,
+"share": 1.0
+},
+"BAR_COIN1": {
+"summons": [],
+"n": 9,
+"share": 1.0
+},
+"JAIL_997": {
+"summons": [],
+"n": 17,
+"share": 1.0
+},
+"JAIL_734": {
+"summons": [],
+"n": 15,
+"share": 0.867
+},
+"SCH_235": {
+"summons": [],
+"n": 9,
+"share": 0.889
+},
+"TIME_063": {
+"summons": [],
+"n": 9,
+"share": 1.0
+},
+"CORE_CS2_093": {
+"summons": [],
+"n": 13,
+"share": 1.0
+},
+"EX1_014t": {
+"summons": [],
+"n": 9,
+"share": 1.0
+},
+"TLC_241t": {
+"summons": [],
+"n": 12,
+"share": 1.0
+},
+"CORE_CATA_004": {
+"summons": [],
+"n": 8,
+"share": 1.0
+},
+"DINO_429": {
+"summons": [],
+"n": 10,
+"share": 1.0
+},
+"TIME_213": {
+"summons": [],
+"n": 15,
+"share": 1.0
+},
+"CATA_464": {
+"summons": [],
+"n": 12,
+"share": 1.0
+},
+"CORE_NEW1_018": {
+"summons": [],
+"n": 8,
+"share": 1.0
+},
+"CAP_800": {
+"summons": [],
+"n": 17,
+"share": 1.0
+},
+"EDR_258": {
+"summons": [],
+"n": 8,
+"share": 1.0
+},
+"TLC_COIN2": {
+"summons": [],
+"n": 12,
+"share": 1.0
+},
+"DINO_132": {
+"summons": [],
+"n": 9,
+"share": 1.0
+},
+"EDR_889": {
+"summons": [],
+"n": 16,
+"share": 1.0
+},
+"JAIL_913": {
+"summons": [],
+"n": 8,
+"share": 1.0
+},
+"TIME_871": {
+"summons": [],
+"n": 10,
+"share": 0.9
+},
+"CORE_TRL_307": {
+"summons": [],
+"n": 11,
+"share": 1.0
+},
+"CORE_AT_064": {
+"summons": [],
+"n": 9,
+"share": 1.0
+},
+"RLK_COIN2": {
+"summons": [],
+"n": 11,
+"share": 1.0
+},
+"CATA_561|h2|SHAMAN": {
+"summons": [
+[
+2,
+4
+]
+],
+"n": 8,
+"share": 0.875
+},
+"CORE_EX1_043": {
+"summons": [],
+"n": 9,
+"share": 1.0
+},
+"DINO_432": {
+"summons": [],
+"n": 10,
+"share": 1.0
+},
+"TLC_224": {
+"summons": [],
+"n": 8,
+"share": 1.0
+},
+"FIR_909": {
+"summons": [],
+"n": 9,
+"share": 1.0
+},
+"DINO_428": {
+"summons": [],
+"n": 10,
+"share": 1.0
+},
+"CATA_305": {
+"summons": [],
+"n": 11,
+"share": 1.0
+},
+"JAIL_315": {
+"summons": [],
+"n": 8,
+"share": 0.875
+},
+"CATA_COIN5": {
+"summons": [],
+"n": 14,
+"share": 1.0
+},
+"EDR_105": {
+"summons": [],
+"n": 8,
+"share": 1.0
+},
+"JAIL_377": {
+"summons": [],
+"n": 10,
+"share": 1.0
+},
+"JAIL_326": {
+"summons": [],
+"n": 9,
+"share": 1.0
+},
+"TIME_018": {
+"summons": [],
+"n": 8,
+"share": 1.0
+},
+"CORE_LOOT_101": {
+"summons": [],
+"n": 9,
+"share": 0.889
+},
+"CATA_978": {
+"summons": [],
+"n": 8,
+"share": 1.0
+},
+"FIR_919": {
+"summons": [],
+"n": 19,
+"share": 1.0
+}
+}

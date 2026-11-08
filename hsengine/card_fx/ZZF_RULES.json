@@ -1,0 +1,4 @@
+{
+ "TLC_901": {"play": [{"op": "dmg_same_race", "n": 3, "tgt": "any_minion"}], "_why": "hits the target and every minion that shares a type with it"},
+ "DINO_406": {"play": [{"op": "dmg", "n": 4, "tgt": "enemy_char"}, {"op": "buff_all", "a": 1, "h": 1, "cond": "race:ELEMENTAL"}]}
+}

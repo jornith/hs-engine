@@ -1,0 +1,3 @@
+{
+ "EDR_846t1": {"play": [{"op": "buff", "a": 5, "h": 5, "tgt": "any_minion"}], "_why": "Corrupted Nightmare: +5/+5 and Immune this turn (parser missed it); 23 -> 1 sim errors"}
+}

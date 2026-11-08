@@ -1,0 +1,3 @@
+{
+ "CATA_785": {"play": [{"op": "value", "n": 15}, {"op": "dmg", "n": 3, "tgt": "enemy_char"}, {"op": "gen", "n": 1}], "_why": "Herald+Combo: real hand is +1 vs sim; 51 -> 50"}
+}

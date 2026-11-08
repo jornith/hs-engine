@@ -1,0 +1,81 @@
+{
+ "CORE_NEW1_020": {
+  "pv": 3,
+  "trig": [
+   [
+    "spell",
+    [
+     {
+      "op": "aoe",
+      "n": 1,
+      "scope": "minions"
+     }
+    ],
+    ""
+   ]
+  ],
+  "_why": "After I cast a spell this deals 1 damage to all minions (seen in logged boards)"
+ },
+ "DINO_410": {
+  "dr": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 0,
+    "h": 3
+   }
+  ],
+  "dr_card": "DINO_410t2",
+  "_why": "Khelos egg: its Deathrattle summons the next, more cracked egg (a 0/3 with a Deathrattle of its own)"
+ },
+ "DINO_410t2": {
+  "dr": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 0,
+    "h": 3
+   }
+  ],
+  "dr_card": "DINO_410t3",
+  "_why": "Khelos egg: its Deathrattle summons the next, more cracked egg (a 0/3 with a Deathrattle of its own)"
+ },
+ "DINO_410t3": {
+  "dr": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 0,
+    "h": 3
+   }
+  ],
+  "dr_card": "DINO_410t4",
+  "_why": "Khelos egg: its Deathrattle summons the next, more cracked egg (a 0/3 with a Deathrattle of its own)"
+ },
+ "DINO_410t4": {
+  "dr": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 0,
+    "h": 3
+   }
+  ],
+  "dr_card": "DINO_410t5",
+  "_why": "Khelos egg: its Deathrattle summons the next, more cracked egg (a 0/3 with a Deathrattle of its own)"
+ },
+ "DINO_410t5": {
+  "dr": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 20,
+    "h": 20,
+    "kw": [
+     "taunt"
+    ]
+   }
+  ],
+  "_why": "Last egg: hatches a 20/20 Khelos with Taunt"
+ }
+}

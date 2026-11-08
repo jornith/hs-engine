@@ -1,0 +1,140 @@
+{
+ "TIME_875t": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "shuffle_self"
+   }
+  ],
+  "_why": "Battlecry: draw, then the minion is shuffled back: replays show it never stays on the board (123 wrong)"
+ },
+ "TLC_100": {
+  "play": [
+   {
+    "op": "gen",
+    "n": 1
+   }
+  ],
+  "_why": "crafts a location card: replays show hand +1 in 112 of 114"
+ },
+ "TLC_226": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 2,
+    "h": 2
+   }
+  ],
+  "dr": [
+   {
+    "op": "draw",
+    "n": 1
+   }
+  ],
+  "dr_gen": 1,
+  "_why": "Deathrattle draws a spell: replays show hand +1 on death that the sim missed (dr_gen)"
+ },
+ "JAIL_515": {
+  "play": [
+   {
+    "op": "dmg_chain",
+    "n": 2,
+    "tgt": "enemy_minion"
+   }
+  ],
+  "_why": "chain cast until a minion survives (next victim = lowest health, a guess for the random pick)"
+ },
+ "CORE_DRG_107": {
+  "dr_gen": 1,
+  "_why": "Deathrattle adds Arcane Missiles to hand: replays show hand +1 on death"
+ },
+ "CATA_497": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 2,
+    "h": 2
+   },
+   {
+    "op": "gen",
+    "n": 1
+   }
+  ],
+  "_why": "Herald: replays show hand +1 vs sim in 61 of 83"
+ },
+ "CATA_722": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 1,
+    "h": 2
+   },
+   {
+    "op": "gen",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": 8
+   }
+  ],
+  "_why": "Herald: replays show hand +1 vs sim in 62 of 75"
+ },
+ "CORE_BAR_311": {
+  "play": [
+   {
+    "op": "dmg_split",
+    "n": 4,
+    "a": 1
+   }
+  ],
+  "_why": "4 damage in single points on random enemy minions + Lifesteal; replays: hero heals 4 (random split approximated as lowest-health first)"
+ },
+ "FIR_910": {
+  "play": [
+   {
+    "op": "dmg",
+    "n": 3,
+    "tgt": "enemy_char"
+   },
+   {
+    "op": "dmg",
+    "n": 3,
+    "tgt": "same"
+   },
+   {
+    "op": "gen",
+    "n": -1
+   },
+   {
+    "op": "value",
+    "n": 5
+   }
+  ],
+  "_why": "FITTED: assumes the random Fire spell discard succeeds (replays: damage doubled, hand -1 in ~all wrong cases)"
+ },
+ "JAIL_730": {
+  "wtrig": [
+   {
+    "op": "gen",
+    "n": 1
+   }
+  ],
+  "_why": "After the hero attacks: Void Soul to hand (hand +1 in 77 of 85)"
+ },
+ "EDR_527": {
+  "play": [
+   {
+    "op": "gen",
+    "n": 10
+   }
+  ],
+  "_why": "fills the hand to 10 (replays: hand 10)"
+ }
+}

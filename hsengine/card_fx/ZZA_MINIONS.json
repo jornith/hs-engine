@@ -1,0 +1,7 @@
+{
+ "TIME_051": {"play": [{"op": "self_atk", "n": 3}]},
+ "CATA_304": {"play": [{"op": "self_stats", "a": 0, "h": -4}, {"op": "heal_hero", "n": 4}]},
+ "FIR_777": {"play": [{"op": "self_stats", "a": 3, "h": 3}, {"op": "value", "n": 15}]},
+ "CORE_RLK_814": {"play": [{"op": "self_stats", "a": 1, "h": 1}]},
+ "TLC_606": {"play": [{"op": "dmg", "n": 2, "tgt": "enemy_minion"}, {"op": "armor", "n": 5}]}
+}

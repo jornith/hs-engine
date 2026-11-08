@@ -1,0 +1,10 @@
+{
+ "JAIL_206": {"play": [{"op": "draw", "n": 2}, {"op": "opp_cards", "n": 1}]},
+ "CATA_526": {"play": [{"op": "aoe_draw", "n": 1}]},
+ "TIME_432": {"play": [{"op": "gen", "n": 2}]},
+ "CATA_585": {"play": [{"op": "destroy", "tgt": "enemy_minion", "cond": "damaged"}, {"op": "gen", "n": 1}]},
+ "END_020": {"play": [{"op": "dmg_surv", "n": 1, "a": 2, "h": 2, "tgt": "any_minion"}]},
+ "JAIL_720": {"dr": [{"op": "value", "n": 12}], "dr_gen": 1},
+ "JAIL_503": {"wtrig": [{"op": "draw_brk", "n": 1}]},
+ "TIME_020t1": {"wtrig": [{"op": "draw", "n": 1}]}
+}

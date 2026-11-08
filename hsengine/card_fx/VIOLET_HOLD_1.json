@@ -1,0 +1,523 @@
+{
+ "BE_552": {},
+ "BE_EVENT_100": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 2
+   },
+   {
+    "op": "value",
+    "n": 35
+   }
+  ]
+ },
+ "BE_EVENT_101": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 2
+   },
+   {
+    "op": "value",
+    "n": 35
+   }
+  ]
+ },
+ "BE_EVENT_102": {
+  "play": [
+   {
+    "op": "dmg",
+    "n": 5,
+    "tgt": "enemy_minion"
+   },
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "JAIL_442": {
+  "dr": [
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "JAIL_441": {
+  "play": [
+   {
+    "op": "dmg",
+    "n": 3,
+    "tgt": "enemy_minion"
+   },
+   {
+    "op": "heal_hero",
+    "n": 3
+   },
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "JAIL_450": {},
+ "JAIL_451": {
+  "play": [
+   {
+    "op": "value",
+    "n": 30
+   }
+  ]
+ },
+ "JAIL_440": {
+  "pv": 5
+ },
+ "JAIL_446": {
+  "play": [
+   {
+    "op": "value",
+    "n": 25
+   }
+  ]
+ },
+ "JAIL_444": {
+  "play": [
+   {
+    "op": "value",
+    "n": -10
+   }
+  ]
+ },
+ "JAIL_454": {
+  "play": [
+   {
+    "op": "dmg",
+    "n": 12,
+    "tgt": "enemy_minion"
+   },
+   {
+    "op": "summon",
+    "n": 2,
+    "a": 3,
+    "h": 1,
+    "kw": [
+     "lifesteal"
+    ]
+   }
+  ]
+ },
+ "JAIL_443": {
+  "pv": 2
+ },
+ "JAIL_732": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 1,
+    "h": 2
+   },
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "JAIL_206": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 2
+   }
+  ]
+ },
+ "JAIL_892": {
+  "play": [
+   {
+    "op": "dmg",
+    "n": 2,
+    "tgt": "enemy_char"
+   },
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "JAIL_733": {
+  "dr": [
+   {
+    "op": "draw",
+    "n": 1
+   }
+  ]
+ },
+ "JAIL_719": {
+  "play": [
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "JAIL_730": {},
+ "JAIL_721": {
+  "pv": 4
+ },
+ "JAIL_890": {},
+ "JAIL_201": {
+  "modes": [
+   [
+    {
+     "op": "hero_atk",
+     "n": 2
+    }
+   ],
+   [
+    {
+     "op": "draw",
+     "n": 1
+    }
+   ]
+  ]
+ },
+ "JAIL_202": {
+  "pv": 3
+ },
+ "JAIL_436": {
+  "play": [
+   {
+    "op": "hero_atk",
+    "n": 1
+   },
+   {
+    "op": "armor",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "JAIL_861": {
+  "play": [
+   {
+    "op": "value",
+    "n": 25
+   }
+  ]
+ },
+ "JAIL_872": {
+  "pv": 5
+ },
+ "JAIL_507": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 2,
+    "h": 3,
+    "kw": [
+     "taunt"
+    ]
+   }
+  ]
+ },
+ "JAIL_860": {},
+ "JAIL_866": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 2
+   }
+  ]
+ },
+ "JAIL_875": {},
+ "JAIL_200": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 2,
+    "a": 2,
+    "h": 3
+   }
+  ]
+ },
+ "JAIL_380": {},
+ "JAIL_880": {
+  "pv": 2
+ },
+ "JAIL_878": {
+  "dr": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 1,
+    "h": 2
+   }
+  ]
+ },
+ "JAIL_881": {
+  "play": [
+   {
+    "op": "dmg_random",
+    "n": 4
+   },
+   {
+    "op": "value",
+    "n": 25
+   }
+  ]
+ },
+ "JAIL_882": {
+  "play": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ],
+  "dr": [
+   {
+    "op": "draw",
+    "n": 1
+   }
+  ]
+ },
+ "JAIL_395": {
+  "play": [
+   {
+    "op": "value",
+    "n": 20
+   }
+  ]
+ },
+ "JAIL_876": {
+  "play": [
+   {
+    "op": "value",
+    "n": 45
+   }
+  ]
+ },
+ "JAIL_879": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 5,
+    "h": 5
+   },
+   {
+    "op": "value",
+    "n": 30
+   }
+  ]
+ },
+ "JAIL_831": {
+  "play": [
+   {
+    "op": "value",
+    "n": 35
+   }
+  ]
+ },
+ "JAIL_125": {
+  "play": [
+   {
+    "op": "freeze",
+    "tgt": "enemy_minion"
+   },
+   {
+    "op": "draw",
+    "n": 1
+   }
+  ]
+ },
+ "JAIL_312": {
+  "play": [
+   {
+    "op": "value",
+    "n": 45
+   }
+  ]
+ },
+ "JAIL_315": {
+  "play": [
+   {
+    "op": "value",
+    "n": 25
+   }
+  ]
+ },
+ "JAIL_379": {
+  "play": [
+   {
+    "op": "value",
+    "n": 25
+   }
+  ]
+ },
+ "JAIL_123": {
+  "play": [
+   {
+    "op": "value",
+    "n": 40
+   }
+  ]
+ },
+ "JAIL_313": {
+  "play": [
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "JAIL_321": {
+  "play": [
+   {
+    "op": "value",
+    "n": 25
+   }
+  ]
+ },
+ "JAIL_735": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 8,
+    "h": 8
+   }
+  ]
+ },
+ "JAIL_460": {
+  "dr": [
+   {
+    "op": "draw",
+    "n": 1
+   }
+  ]
+ },
+ "JAIL_703": {},
+ "CAP_407": {
+  "play": [
+   {
+    "op": "value",
+    "n": 25
+   }
+  ]
+ },
+ "JAIL_030": {
+  "pv": 3
+ },
+ "JAIL_850": {
+  "pv": 4
+ },
+ "JAIL_986": {
+  "play": [
+   {
+    "op": "value",
+    "n": 12
+   }
+  ]
+ },
+ "JAIL_101": {
+  "play": [
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "JAIL_461": {
+  "play": [
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "JAIL_502": {
+  "pv": -2
+ },
+ "JAIL_998": {
+  "play": [
+   {
+    "op": "buff",
+    "a": 2,
+    "h": 0,
+    "kw": [
+     "rush"
+    ],
+    "tgt": "friendly_minion"
+   }
+  ]
+ },
+ "JAIL_205": {
+  "pv": 3
+ },
+ "JAIL_447": {
+  "dr": [
+   {
+    "op": "value",
+    "n": 25
+   }
+  ]
+ },
+ "JAIL_851": {
+  "play": [
+   {
+    "op": "value",
+    "n": 8
+   }
+  ]
+ },
+ "JAIL_883": {
+  "pv": 5
+ },
+ "JAIL_204": {},
+ "JAIL_453": {},
+ "JAIL_407": {
+  "pv": 8
+ },
+ "JAIL_459": {
+  "pv": 6
+ },
+ "JAIL_852": {
+  "play": [
+   {
+    "op": "value",
+    "n": 5
+   }
+  ]
+ },
+ "JAIL_718": {
+  "pv": 10
+ },
+ "JAIL_328": {
+  "dr": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "JAIL_327": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 2,
+    "h": 2
+   },
+   {
+    "op": "value",
+    "n": 30
+   }
+  ]
+ }
+}

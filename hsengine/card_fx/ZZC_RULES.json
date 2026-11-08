@@ -1,0 +1,7 @@
+{
+ "TLC_226": {"play": [{"op": "summon", "n": 1, "a": 2, "h": 2}], "dr": [{"op": "draw", "n": 1}], "_why": "Kindred copy: real log shows a second 2/2 on play; 139 -> 47"},
+ "JAIL_892": {"play": [{"op": "dmg", "n": 2, "tgt": "any_char"}]},
+ "CATA_497": {"play": [{"op": "summon", "n": 1, "a": 2, "h": 2}], "_why": "Herald summons a Soldier (2/2 at the usual counter); 74 -> 48"},
+ "EDR_840": {"play": [{"op": "draw", "n": 1}, {"op": "summon", "n": 1, "a": 4, "h": 4}], "_why": "Dreadseed 3/3..5/5 random, 4/4 average instead of value hack; 409 -> 272"},
+ "EDR_463": {"modes": [[{"op": "destroy", "tgt": "enemy_minion"}], [{"op": "summon", "n": 1, "a": 2, "h": 2}]], "_why": "55 -> 45"}
+}

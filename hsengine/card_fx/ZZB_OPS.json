@@ -1,0 +1,39 @@
+{
+ "END_023": {
+  "play": [
+   {
+    "op": "bitter",
+    "tgt": "any_minion"
+   },
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "JAIL_805t": {
+  "play": [
+   {
+    "op": "aoe_ls",
+    "n": 2
+   },
+   {
+    "op": "value",
+    "n": 8
+   }
+  ]
+ },
+ "TIME_005t2": {
+  "play": [
+   {
+    "op": "buff_name",
+    "a": 2,
+    "h": 2
+   },
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ }
+}

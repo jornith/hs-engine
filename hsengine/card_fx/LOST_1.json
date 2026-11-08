@@ -1,0 +1,774 @@
+{
+ "TIME_008": {
+  "play": [
+   {
+    "op": "value",
+    "n": 5
+   }
+  ]
+ },
+ "TIME_028": {
+  "play": [
+   {
+    "op": "value",
+    "n": 20
+   }
+  ]
+ },
+ "TIME_029": {
+  "play": [
+   {
+    "op": "value",
+    "n": 25
+   }
+  ]
+ },
+ "TIME_030": {
+  "play": [
+   {
+    "op": "value",
+    "n": 20
+   }
+  ]
+ },
+ "TIME_032": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 2
+   },
+   {
+    "op": "value",
+    "n": -20
+   }
+  ]
+ },
+ "TIME_005": {
+  "pv": 5
+ },
+ "TIME_716": {
+  "play": [
+   {
+    "op": "value",
+    "n": 20
+   }
+  ]
+ },
+ "END_021": {
+  "play": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "TIME_034": {
+  "play": [
+   {
+    "op": "weapon",
+    "a": 3,
+    "h": 2
+   }
+  ]
+ },
+ "TIME_871": {
+  "play": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "TIME_870": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 5,
+    "h": 5
+   },
+   {
+    "op": "value",
+    "n": -25
+   }
+  ]
+ },
+ "TIME_850": {
+  "dr": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 8,
+    "h": 8
+   }
+  ]
+ },
+ "TIME_872": {
+  "play": [
+   {
+    "op": "value",
+    "n": -40
+   }
+  ]
+ },
+ "DINO_417": {
+  "play": [
+   {
+    "op": "buff_all",
+    "a": 1,
+    "h": 0,
+    "kw": [
+     "rush"
+    ],
+    "scope": "mine"
+   },
+   {
+    "op": "doom_all"
+   }
+  ]
+ },
+ "TLC_433": {
+  "play": [
+   {
+    "op": "value",
+    "n": 20
+   }
+  ]
+ },
+ "TLC_434": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "TLC_432": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": 5
+   }
+  ]
+ },
+ "TLC_439": {
+  "play": [
+   {
+    "op": "aoe",
+    "n": 2,
+    "scope": "enemy_minions"
+   },
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "TLC_440": {
+  "play": [
+   {
+    "op": "dmg",
+    "n": 4,
+    "tgt": "enemy_char"
+   },
+   {
+    "op": "draw",
+    "n": 1
+   }
+  ]
+ },
+ "DINO_416": {
+  "pv": 3
+ },
+ "TLC_436": {},
+ "TLC_401": {
+  "dr": [
+   {
+    "op": "dmg_random",
+    "n": 6
+   },
+   {
+    "op": "dmg_random",
+    "n": 6
+   },
+   {
+    "op": "dmg_random",
+    "n": 6
+   }
+  ]
+ },
+ "DINO_415": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 6,
+    "h": 6
+   },
+   {
+    "op": "value",
+    "n": 25
+   }
+  ]
+ },
+ "TLC_810": {
+  "play": [
+   {
+    "op": "value",
+    "n": 30
+   }
+  ]
+ },
+ "TLC_631": {
+  "play": [
+   {
+    "op": "value",
+    "n": 20
+   }
+  ]
+ },
+ "TLC_902": {
+  "play": [
+   {
+    "op": "value",
+    "n": 45
+   }
+  ]
+ },
+ "DINO_137": {
+  "play": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "TLC_833": {},
+ "TLC_840": {
+  "pv": 4
+ },
+ "TLC_630": {
+  "pv": 4
+ },
+ "TLC_903": {
+  "play": [
+   {
+    "op": "hero_atk",
+    "n": 5
+   }
+  ]
+ },
+ "DINO_138": {
+  "play": [
+   {
+    "op": "dmg_random_minions",
+    "n": 6,
+    "a": 2
+   }
+  ]
+ },
+ "TLC_841": {
+  "play": [
+   {
+    "op": "value",
+    "n": 30
+   }
+  ]
+ },
+ "TLC_235": {
+  "play": [
+   {
+    "op": "destroy",
+    "tgt": "enemy_minion"
+   },
+   {
+    "op": "value",
+    "n": -20
+   }
+  ]
+ },
+ "TLC_239": {
+  "play": [
+   {
+    "op": "value",
+    "n": 20
+   }
+  ]
+ },
+ "TLC_232": {
+  "play": [
+   {
+    "op": "value",
+    "n": 35
+   }
+  ]
+ },
+ "DINO_432": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 2
+   },
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "TLC_230": {
+  "play": [
+   {
+    "op": "dmg",
+    "n": 8,
+    "tgt": "enemy_minion"
+   },
+   {
+    "op": "summon",
+    "n": 2,
+    "a": 2,
+    "h": 2
+   }
+  ]
+ },
+ "TLC_236": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 4
+   }
+  ]
+ },
+ "DINO_421": {
+  "dr": [
+   {
+    "op": "value",
+    "n": 30
+   }
+  ]
+ },
+ "TLC_257": {
+  "play": [
+   {
+    "op": "value",
+    "n": 50
+   }
+  ]
+ },
+ "DINO_434": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   }
+  ],
+  "dr": [
+   {
+    "op": "draw",
+    "n": 1
+   }
+  ]
+ },
+ "TLC_830": {
+  "play": [
+   {
+    "op": "value",
+    "n": 20
+   }
+  ]
+ },
+ "TLC_822": {
+  "eot": [
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "TLC_823": {
+  "play": [
+   {
+    "op": "dmg",
+    "n": 3,
+    "tgt": "enemy_minion"
+   },
+   {
+    "op": "value",
+    "n": 5
+   }
+  ]
+ },
+ "TLC_826": {
+  "play": [
+   {
+    "op": "value",
+    "n": 50
+   }
+  ]
+ },
+ "TLC_827": {
+  "eot": [
+   {
+    "op": "value",
+    "n": 12
+   }
+  ]
+ },
+ "TLC_836": {
+  "pv": 4
+ },
+ "TLC_825": {
+  "play": [
+   {
+    "op": "dmg",
+    "n": 5,
+    "tgt": "enemy_minion"
+   }
+  ]
+ },
+ "TLC_828": {
+  "play": [
+   {
+    "op": "buff_all",
+    "a": 2,
+    "h": 2,
+    "scope": "others"
+   },
+   {
+    "op": "value",
+    "n": 20
+   }
+  ]
+ },
+ "DINO_422": {
+  "dr": [
+   {
+    "op": "summon",
+    "n": 2,
+    "a": 3,
+    "h": 3
+   }
+  ]
+ },
+ "TLC_366": {},
+ "DINO_403": {
+  "play": [
+   {
+    "op": "buff",
+    "a": 5,
+    "h": 5,
+    "kw": [
+     "charge"
+    ],
+    "tgt": "friendly_minion"
+   }
+  ]
+ },
+ "TLC_460": {
+  "play": [
+   {
+    "op": "value",
+    "n": 20
+   }
+  ]
+ },
+ "TLC_364": {
+  "play": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "TLC_226": {
+  "dr": [
+   {
+    "op": "draw",
+    "n": 1
+   }
+  ]
+ },
+ "TLC_483": {
+  "pv": 3
+ },
+ "DINO_429": {
+  "play": [
+   {
+    "op": "set_hp",
+    "n": 1,
+    "tgt": "enemy_minion"
+   },
+   {
+    "op": "set_atk",
+    "n": 1,
+    "tgt": "same"
+   },
+   {
+    "op": "value",
+    "n": 5
+   }
+  ]
+ },
+ "TLC_220": {
+  "pv": 4
+ },
+ "DINO_414": {
+  "play": [
+   {
+    "op": "value",
+    "n": 25
+   }
+  ]
+ },
+ "TLC_452": {
+  "pv": 6
+ },
+ "DINO_409": {},
+ "TLC_334": {
+  "play": [
+   {
+    "op": "value",
+    "n": 40
+   }
+  ]
+ },
+ "TLC_603": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   }
+  ],
+  "dr": [
+   {
+    "op": "discard",
+    "n": 1
+   }
+  ]
+ },
+ "DINO_411": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   }
+  ]
+ },
+ "TLC_244": {
+  "dr": [
+   {
+    "op": "value",
+    "n": -5
+   }
+  ]
+ },
+ "TLC_245": {
+  "modes": [
+   [
+    {
+     "op": "self_buff_allies",
+     "a": 0,
+     "h": 0
+    },
+    {
+     "op": "value",
+     "n": 18
+    }
+   ],
+   [
+    {
+     "op": "value",
+     "n": 15
+    }
+   ],
+   [
+    {
+     "op": "value",
+     "n": 14
+    }
+   ]
+  ]
+ },
+ "TLC_254": {
+  "eot": [
+   {
+    "op": "buff_all",
+    "a": 1,
+    "h": 1,
+    "scope": "mine"
+   }
+  ]
+ },
+ "TLC_255": {
+  "play": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "TLC_427": {
+  "play": [
+   {
+    "op": "value",
+    "n": 25
+   }
+  ]
+ },
+ "DINO_410": {
+  "dr": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "DINO_419": {
+  "play": [
+   {
+    "op": "buff",
+    "a": 2,
+    "h": 2,
+    "kw": [
+     "rush"
+    ],
+    "tgt": "friendly_minion"
+   }
+  ]
+ },
+ "TLC_101": {
+  "pv": 3
+ },
+ "TLC_109": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   }
+  ]
+ },
+ "TLC_242": {
+  "play": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "TLC_251": {
+  "play": [
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "TLC_252": {
+  "play": [
+   {
+    "op": "value",
+    "n": 5
+   }
+  ]
+ },
+ "TLC_253": {
+  "pv": -4
+ },
+ "TLC_256": {
+  "pv": 3
+ },
+ "TLC_465": {
+  "dr": [
+   {
+    "op": "value",
+    "n": 20
+   }
+  ]
+ },
+ "TLC_888": {
+  "play": [
+   {
+    "op": "value",
+    "n": 20
+   }
+  ]
+ },
+ "TLC_246": {
+  "play": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "TLC_247": {
+  "pv": 4
+ },
+ "TLC_250": {
+  "play": [
+   {
+    "op": "value",
+    "n": 5
+   }
+  ]
+ },
+ "TLC_429": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 2,
+    "a": 1,
+    "h": 1,
+    "kw": [
+     "rush"
+    ]
+   }
+  ]
+ },
+ "TLC_621": {
+  "dr": [
+   {
+    "op": "value",
+    "n": -10
+   }
+  ]
+ },
+ "DINO_435": {
+  "play": [
+   {
+    "op": "summon_copies",
+    "n": 1
+   }
+  ]
+ },
+ "TLC_107": {
+  "pv": 5
+ },
+ "TLC_468": {
+  "dr": [
+   {
+    "op": "summon",
+    "n": 2,
+    "a": 2,
+    "h": 2,
+    "kw": [
+     "taunt"
+    ]
+   }
+  ]
+ },
+ "TLC_454": {
+  "play": [
+   {
+    "op": "destroy_random"
+   }
+  ]
+ }
+}
