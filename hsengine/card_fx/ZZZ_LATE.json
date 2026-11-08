@@ -1,0 +1,74 @@
+{
+ "CATA_190h": {
+  "play": [
+   {
+    "op": "value",
+    "n": 60
+   },
+   {
+    "op": "armor",
+    "n": 12
+   },
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 12,
+    "h": 12
+   },
+   {
+    "op": "aoe",
+    "n": 100,
+    "scope": "enemy_minions"
+   }
+  ]
+ },
+ "JAIL_510": {
+  "play": [
+   {
+    "op": "destroy_all"
+   },
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 8,
+    "h": 8
+   },
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 8,
+    "h": 8
+   },
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "TIME_005t4": {
+  "play": [
+   {
+    "op": "armor",
+    "n": 5
+   },
+   {
+    "op": "armor",
+    "n": 5
+   }
+  ]
+ },
+ "CATA_154": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 2,
+    "a": 2,
+    "h": 2
+   },
+   {
+    "op": "value",
+    "n": 20
+   }
+  ]
+ }
+}

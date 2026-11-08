@@ -1,0 +1,237 @@
+{
+ "JAIL_801": {
+  "play": [
+   {
+    "op": "dmg",
+    "n": 4,
+    "tgt": "enemy_char"
+   }
+  ]
+ },
+ "JAIL_803": {
+  "play": [
+   {
+    "op": "freeze",
+    "tgt": "enemy_minion"
+   },
+   {
+    "op": "draw",
+    "n": 2
+   }
+  ]
+ },
+ "JAIL_805": {
+  "play": [
+   {
+    "op": "aoe",
+    "n": 2,
+    "scope": "enemy_minions"
+   },
+   {
+    "op": "heal_hero",
+    "n": 4
+   }
+  ]
+ },
+ "JAIL_513": {
+  "play": [
+   {
+    "op": "self_hp_hand",
+    "n": 1
+   }
+  ]
+ },
+ "CFM_790": {
+  "play": [
+   {
+    "op": "enemy_summon",
+    "a": 3,
+    "h": 3
+   },
+   {
+    "op": "value",
+    "n": 5
+   }
+  ]
+ },
+ "SW_072": {
+  "play": [
+   {
+    "op": "destroy_weapon"
+   }
+  ]
+ },
+ "EX1_145": {
+  "play": [
+   {
+    "op": "value",
+    "n": 12
+   }
+  ]
+ },
+ "YOP_001": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   }
+  ]
+ },
+ "GIL_836": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   }
+  ]
+ },
+ "RLK_121": {
+  "pv": 4
+ },
+ "DMF_067": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": -8
+   }
+  ],
+  "dr": [
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": -8
+   }
+  ]
+ },
+ "SCH_713": {
+  "play": [
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "RLK_567": {
+  "play": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "CORE_EX1_197": {
+  "play": [
+   {
+    "op": "destroy_all",
+    "cond": "atk>=5"
+   }
+  ]
+ },
+ "EX1_197": {
+  "play": [
+   {
+    "op": "destroy_all",
+    "cond": "atk>=5"
+   }
+  ]
+ },
+ "EDR_457": {
+  "play": [
+   {
+    "op": "weapon",
+    "a": 2,
+    "h": 2
+   }
+  ]
+ },
+ "EDR_456": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   }
+  ]
+ },
+ "CATA_111": {
+  "play": [
+   {
+    "op": "mana",
+    "n": 2
+   }
+  ]
+ },
+ "JAIL_035": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 2,
+    "a": 2,
+    "h": 3,
+    "kw": [
+     "taunt"
+    ]
+   }
+  ]
+ },
+ "TIME_019": {
+  "play": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "JAIL_432": {
+  "play": [
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "TIME_005t9": {
+  "play": [
+   {
+    "op": "transform_all",
+    "a": 1,
+    "h": 1
+   }
+  ]
+ },
+ "TIME_005t5": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 7,
+    "h": 7,
+    "kw": [
+     "taunt"
+    ]
+   }
+  ]
+ },
+ "TIME_005t8": {
+  "play": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "TIME_005t2": {
+  "play": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ }
+}

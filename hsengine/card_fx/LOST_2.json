@@ -1,0 +1,799 @@
+{
+ "DINO_430": {
+  "play": [
+   {
+    "op": "value",
+    "n": 30
+   }
+  ],
+  "dr": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 6,
+    "h": 6
+   }
+  ]
+ },
+ "TLC_106": {
+  "play": [
+   {
+    "op": "value",
+    "n": 50
+   }
+  ]
+ },
+ "TLC_829": {
+  "play": [
+   {
+    "op": "destroy",
+    "tgt": "enemy_minion"
+   }
+  ]
+ },
+ "TLC_605": {
+  "pv": 6
+ },
+ "TLC_243": {},
+ "TLC_480": {
+  "eot": [
+   {
+    "op": "value",
+    "n": 20
+   }
+  ],
+  "pv": 6
+ },
+ "TLC_426": {
+  "play": [
+   {
+    "op": "value",
+    "n": 20
+   }
+  ]
+ },
+ "DINO_404": {
+  "play": [
+   {
+    "op": "buff_all",
+    "a": 0,
+    "h": 0,
+    "kw": [
+     "rush"
+    ],
+    "scope": "others"
+   }
+  ]
+ },
+ "TLC_438": {
+  "play": [
+   {
+    "op": "value",
+    "n": 25
+   }
+  ]
+ },
+ "TLC_444": {
+  "play": [
+   {
+    "op": "buff",
+    "a": 2,
+    "h": 2,
+    "tgt": "friendly_minion"
+   },
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "DINO_405": {
+  "play": [
+   {
+    "op": "value",
+    "n": 35
+   }
+  ]
+ },
+ "TLC_428": {
+  "play": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "TLC_441": {
+  "play": [
+   {
+    "op": "buff_all",
+    "a": 1,
+    "h": 2,
+    "scope": "mine"
+   }
+  ]
+ },
+ "TLC_241": {
+  "pv": 6
+ },
+ "TLC_430": {
+  "pv": 6
+ },
+ "TLC_240": {
+  "dr": [
+   {
+    "op": "summon",
+    "n": 3,
+    "a": 2,
+    "h": 1
+   },
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "DINO_424": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 10,
+    "h": 10
+   }
+  ]
+ },
+ "TLC_817": {
+  "play": [
+   {
+    "op": "value",
+    "n": 20
+   }
+  ]
+ },
+ "TLC_820": {
+  "dr": [
+   {
+    "op": "draw",
+    "n": 1
+   }
+  ]
+ },
+ "TLC_811": {
+  "pv": 4
+ },
+ "TLC_814": {
+  "dr": [
+   {
+    "op": "draw",
+    "n": 2
+   }
+  ]
+ },
+ "TLC_815": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 4,
+    "h": 4,
+    "kw": [
+     "taunt"
+    ]
+   }
+  ]
+ },
+ "TLC_816": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 2
+   }
+  ]
+ },
+ "TLC_818": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 3,
+    "a": 2,
+    "h": 2
+   },
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "TLC_819": {},
+ "DINO_428": {
+  "play": [
+   {
+    "op": "buff",
+    "a": 6,
+    "h": 7,
+    "kw": [
+     "lifesteal"
+    ],
+    "tgt": "friendly_minion"
+   }
+  ]
+ },
+ "TLC_821": {
+  "pv": 4
+ },
+ "DINO_431": {
+  "dr": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 5,
+    "h": 6,
+    "kw": [
+     "taunt"
+    ]
+   }
+  ]
+ },
+ "TLC_835": {
+  "play": [
+   {
+    "op": "heal_hero",
+    "n": 40
+   }
+  ]
+ },
+ "TLC_513": {
+  "play": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "TLC_514": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "DINO_408": {},
+ "TLC_518": {
+  "play": [
+   {
+    "op": "value",
+    "n": 40
+   }
+  ]
+ },
+ "TLC_521": {
+  "play": [
+   {
+    "op": "value",
+    "n": 8
+   }
+  ]
+ },
+ "DINO_407": {},
+ "DINO_427": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": 5
+   }
+  ]
+ },
+ "TLC_519": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 1,
+    "h": 1,
+    "kw": [
+     "stealth",
+     "poisonous"
+    ]
+   }
+  ]
+ },
+ "TLC_516": {
+  "play": [
+   {
+    "op": "value",
+    "n": 25
+   }
+  ]
+ },
+ "TLC_520": {},
+ "TLC_522": {
+  "play": [
+   {
+    "op": "aoe",
+    "n": 1,
+    "scope": "enemy_minions"
+   },
+   {
+    "op": "draw",
+    "n": 1
+   }
+  ],
+  "dr": [
+   {
+    "op": "aoe",
+    "n": 1,
+    "scope": "enemy_minions"
+   }
+  ]
+ },
+ "DINO_412": {
+  "eot": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "TLC_229": {
+  "play": [
+   {
+    "op": "value",
+    "n": 20
+   }
+  ]
+ },
+ "DINO_406": {
+  "play": [
+   {
+    "op": "dmg",
+    "n": 4,
+    "tgt": "enemy_char"
+   },
+   {
+    "op": "value",
+    "n": 5
+   }
+  ]
+ },
+ "TLC_222": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 2
+   },
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "TLC_223": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   }
+  ]
+ },
+ "TLC_227": {
+  "play": [
+   {
+    "op": "dmg_random",
+    "n": 6
+   }
+  ]
+ },
+ "TLC_228": {
+  "pv": 3
+ },
+ "DINO_413": {
+  "play": [
+   {
+    "op": "dmg_random_minions",
+    "n": 2,
+    "a": 2
+   }
+  ]
+ },
+ "TLC_224": {
+  "pv": 4
+ },
+ "TLC_482": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 2,
+    "a": 2,
+    "h": 1
+   }
+  ]
+ },
+ "TLC_221": {
+  "play": [
+   {
+    "op": "dmg",
+    "n": 3,
+    "tgt": "enemy_char"
+   },
+   {
+    "op": "summon",
+    "n": 3,
+    "a": 2,
+    "h": 1
+   }
+  ]
+ },
+ "TLC_451": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   }
+  ]
+ },
+ "TLC_446": {
+  "play": [
+   {
+    "op": "value",
+    "n": 20
+   }
+  ]
+ },
+ "TLC_450": {
+  "play": [
+   {
+    "op": "value",
+    "n": 8
+   }
+  ]
+ },
+ "TLC_469": {
+  "dr": [
+   {
+    "op": "value",
+    "n": 30
+   }
+  ]
+ },
+ "TLC_447": {
+  "play": [
+   {
+    "op": "destroy",
+    "tgt": "enemy_minion"
+   }
+  ]
+ },
+ "TLC_463": {
+  "play": [
+   {
+    "op": "discard",
+    "n": 1
+   }
+  ]
+ },
+ "DINO_131": {
+  "dr": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 4,
+    "h": 4,
+    "kw": [
+     "lifesteal"
+    ]
+   }
+  ]
+ },
+ "TLC_467": {
+  "dr": [
+   {
+    "op": "draw",
+    "n": 2
+   }
+  ]
+ },
+ "TLC_479": {
+  "dr": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 5,
+    "h": 5
+   }
+  ]
+ },
+ "TLC_466": {
+  "play": [
+   {
+    "op": "value",
+    "n": 70
+   }
+  ]
+ },
+ "DINO_132": {
+  "eot": [
+   {
+    "op": "dmg_random_minions",
+    "n": 5,
+    "a": 1
+   }
+  ]
+ },
+ "DINO_402": {
+  "play": [
+   {
+    "op": "value",
+    "n": 25
+   }
+  ]
+ },
+ "TLC_602": {
+  "play": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "TLC_623": {
+  "pv": 4
+ },
+ "DINO_400": {
+  "pv": 4
+ },
+ "TLC_478": {},
+ "TLC_620": {
+  "play": [
+   {
+    "op": "armor",
+    "n": 3
+   },
+   {
+    "op": "dmg",
+    "n": 4,
+    "tgt": "enemy_minion"
+   }
+  ]
+ },
+ "TLC_601": {
+  "play": [
+   {
+    "op": "aoe",
+    "n": 3,
+    "scope": "minions"
+   }
+  ]
+ },
+ "TLC_622": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 2,
+    "a": 0,
+    "h": 6,
+    "kw": [
+     "taunt"
+    ]
+   }
+  ]
+ },
+ "TLC_632": {
+  "play": [
+   {
+    "op": "value",
+    "n": 50
+   }
+  ]
+ },
+ "TLC_624": {
+  "play": [
+   {
+    "op": "value",
+    "n": 30
+   }
+  ]
+ },
+ "DINO_433": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 5,
+    "h": 6,
+    "kw": [
+     "taunt"
+    ]
+   },
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 3,
+    "h": 5,
+    "kw": [
+     "taunt"
+    ]
+   },
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 2,
+    "h": 3,
+    "kw": [
+     "taunt"
+    ]
+   }
+  ]
+ },
+ "DINO_401": {
+  "pv": 10
+ },
+ "TLC_600": {
+  "play": [
+   {
+    "op": "dmg",
+    "n": 5,
+    "tgt": "enemy_char"
+   },
+   {
+    "op": "armor",
+    "n": 5
+   }
+  ]
+ },
+ "EDR_811": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": 5
+   }
+  ]
+ },
+ "EDR_813": {
+  "modes": [
+   [
+    {
+     "op": "summon",
+     "n": 2,
+     "a": 1,
+     "h": 1
+    }
+   ],
+   [
+    {
+     "op": "dmg",
+     "n": 4,
+     "tgt": "enemy_minion"
+    }
+   ]
+  ]
+ },
+ "EDR_816": {
+  "eot": [
+   {
+    "op": "buff_all",
+    "a": 1,
+    "h": 0,
+    "scope": "others"
+   }
+  ]
+ },
+ "EDR_812": {},
+ "EDR_815": {
+  "pv": 4
+ },
+ "FIR_900": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "EDR_810": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 2,
+    "a": 0,
+    "h": 2
+   }
+  ]
+ },
+ "EDR_818": {
+  "dr": [
+   {
+    "op": "summon",
+    "n": 4,
+    "a": 1,
+    "h": 1
+   }
+  ]
+ },
+ "FIR_951": {
+  "play": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "EDR_819": {
+  "play": [
+   {
+    "op": "aoe",
+    "n": 6,
+    "scope": "other_minions"
+   }
+  ]
+ },
+ "EDR_840": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "EDR_882": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "FIR_902": {
+  "play": [
+   {
+    "op": "value",
+    "n": 40
+   }
+  ]
+ },
+ "FIR_904": {
+  "pv": 4
+ },
+ "EDR_820": {
+  "modes": [
+   [
+    {
+     "op": "value",
+     "n": 25
+    }
+   ],
+   [
+    {
+     "op": "aoe",
+     "n": 2,
+     "scope": "minions"
+    }
+   ]
+  ]
+ }
+}

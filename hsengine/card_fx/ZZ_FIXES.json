@@ -1,0 +1,180 @@
+{
+ "TIME_702": {
+  "play": [
+   {
+    "op": "dmg",
+    "n": 3,
+    "tgt": "enemy_char"
+   },
+   {
+    "op": "armor",
+    "n": 5
+   }
+  ]
+ },
+ "CATA_496": {
+  "play": [
+   {
+    "op": "steal_temp",
+    "tgt": "enemy_minion"
+   }
+  ]
+ },
+ "FIR_959": {
+  "play": [
+   {
+    "op": "dmg_random",
+    "n": 10
+   },
+   {
+    "op": "aoe",
+    "n": 1,
+    "scope": "chars"
+   }
+  ],
+  "_why": "15 mana of random Fire spells: mostly at enemies, but Hellfire-type spells hit everyone (it wiped my board when played before the attacks)"
+ },
+ "EDR_810t": {
+  "eot": [
+   {
+    "op": "drain_lowest",
+    "n": 1
+   }
+  ],
+  "_why": "Bloated Leech: at end of my turn my hero steals 1 Health from the lowest Health enemy (minion or hero); '@' in the text hid the number from the parser. Was the top eot_check miss (119 turns). Abominable Shell's +1 not modelled yet."
+ },
+ "CATA_139t": {
+  "eot": [
+   {
+    "op": "self_stats",
+    "a": 1,
+    "h": 1
+   },
+   {
+    "op": "ping",
+    "n": 7
+   }
+  ],
+  "_why": "Wickerfang's Leg: grows and tells the colossal body to grow too"
+ },
+ "CATA_139t2": {
+  "eot": [
+   {
+    "op": "self_stats",
+    "a": 1,
+    "h": 1
+   },
+   {
+    "op": "ping",
+    "n": 7
+   }
+  ],
+  "_why": "Wickerfang's Leg: grows and tells the colossal body to grow too"
+ },
+ "CATA_139t3": {
+  "eot": [
+   {
+    "op": "self_stats",
+    "a": 1,
+    "h": 1
+   },
+   {
+    "op": "ping",
+    "n": 7
+   }
+  ],
+  "_why": "Wickerfang's Leg: grows and tells the colossal body to grow too"
+ },
+ "CATA_139t4": {
+  "eot": [
+   {
+    "op": "self_stats",
+    "a": 1,
+    "h": 1
+   },
+   {
+    "op": "ping",
+    "n": 7
+   }
+  ],
+  "_why": "Wickerfang's Leg: grows and tells the colossal body to grow too"
+ },
+ "CATA_139": {
+  "pv": 10,
+  "trig": [
+   [
+    "ally_grew",
+    [
+     {
+      "op": "self_stats",
+      "a": 1,
+      "h": 1
+     }
+    ],
+    ""
+   ]
+  ],
+  "_why": "Colossal +4: gains what its Legs gain"
+ },
+ "CATA_300t1": {
+  "eot": [
+   {
+    "op": "heal_damaged",
+    "n": 3
+   }
+  ],
+  "_why": "Black Blood mass: heals the most hurt friendly character (hero if none)"
+ },
+ "CATA_300t2": {
+  "eot": [
+   {
+    "op": "heal_damaged",
+    "n": 3
+   }
+  ],
+  "_why": "Black Blood mass: heals the most hurt friendly character (hero if none)"
+ },
+ "CATA_300t3": {
+  "eot": [
+   {
+    "op": "heal_damaged",
+    "n": 3
+   }
+  ],
+  "_why": "Black Blood mass: heals the most hurt friendly character (hero if none)"
+ },
+ "CATA_300": {
+  "pv": 8,
+  "trig": [
+   [
+    "healed",
+    [
+     {
+      "op": "attack_random"
+     }
+    ],
+    ""
+   ]
+  ],
+  "_why": "Colossal +3: attacks an enemy minion after each heal of mine"
+ },
+ "CATA_305": {
+  "eot": [
+   {
+    "op": "grow_if_full",
+    "h": 3
+   }
+  ],
+  "_why": "Enraged Matriarch: +3 Health only at full Health"
+ },
+ "CATA_725t": {
+  "eot": [
+   {
+    "op": "eat_right",
+    "a": 1,
+    "h": 1
+   }
+  ],
+  "_why": "Cho'gall's soldier: destroys the minion to its right, +{0}/+{0} (script value)"
+ }
+}

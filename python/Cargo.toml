@@ -1,0 +1,21 @@
+[package]
+name = "hs-engine-py"
+description = "Python bindings for hs-engine"
+version.workspace = true
+license.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+publish = false
+
+[lib]
+name = "_core"
+crate-type = ["cdylib"]
+
+[features]
+# maturin turns this on; plain `cargo build` / `cargo clippy` leave it off
+extension-module = ["pyo3/extension-module"]
+
+[dependencies]
+hs-engine = { path = "../engine" }
+pyo3 = "0.30.1"
+rustc-hash = "2.1.3"

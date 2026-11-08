@@ -1,0 +1,39 @@
+{
+ "MEND_500": {
+  "play": [
+   {
+    "op": "dmg_excess",
+    "n": 4,
+    "a": 1,
+    "h": 1
+   }
+  ],
+  "_why": "random enemy minion hit, excess to hero; random pick modelled by fixed policy: highest-health target, chosen over 4 other policies by wrong count 63 vs 65-68 (FITTED)"
+ },
+ "CATA_485": {
+  "play": [
+   {
+    "op": "dmg",
+    "n": 2,
+    "tgt": "enemy_char"
+   },
+   {
+    "op": "dmg_excess",
+    "n": 1,
+    "a": 1,
+    "h": 10
+   }
+  ],
+  "_why": "Deal 2 damage, then 1 damage to a random enemy minion (real: kills a 1-health minion, lowest-health policy FITTED)"
+ },
+ "CATA_489t2": {
+  "play": [
+   {
+    "op": "aoe",
+    "n": 2,
+    "scope": "enemies"
+   }
+  ],
+  "_why": "Shattered half: 2 damage to all enemies (the text parser gave nothing: sim left hero and board untouched, 100 wrong)"
+ }
+}

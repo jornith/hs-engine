@@ -1,0 +1,910 @@
+{
+ "EDR_526": {
+  "play": [
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "EDR_781": {
+  "pv": 2
+ },
+ "FIR_919": {
+  "dr": [
+   {
+    "op": "value",
+    "n": 20
+   }
+  ]
+ },
+ "EDR_527": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 6
+   }
+  ]
+ },
+ "EDR_529": {},
+ "EDR_231": {
+  "play": [
+   {
+    "op": "heal",
+    "n": 4,
+    "tgt": "friendly_char"
+   },
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "EDR_234": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 2
+   },
+   {
+    "op": "value",
+    "n": -10
+   }
+  ]
+ },
+ "EDR_518": {
+  "play": [
+   {
+    "op": "value",
+    "n": 25
+   }
+  ]
+ },
+ "FIR_927": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "EDR_230": {
+  "play": [
+   {
+    "op": "value",
+    "n": 30
+   }
+  ]
+ },
+ "EDR_233": {
+  "modes": [
+   [
+    {
+     "op": "summon",
+     "n": 3,
+     "a": 2,
+     "h": 3,
+     "kw": [
+      "taunt"
+     ]
+    }
+   ],
+   [
+    {
+     "op": "summon",
+     "n": 2,
+     "a": 4,
+     "h": 3,
+     "kw": [
+      "windfury"
+     ]
+    }
+   ]
+  ]
+ },
+ "EDR_238": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 3,
+    "a": 5,
+    "h": 5
+   }
+  ]
+ },
+ "EDR_477": {},
+ "EDR_031": {
+  "eot": [
+   {
+    "op": "value",
+    "n": 60
+   }
+  ]
+ },
+ "EDR_232": {
+  "play": [
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "FIR_954": {
+  "play": [
+   {
+    "op": "dmg",
+    "n": 5,
+    "tgt": "enemy_minion"
+   },
+   {
+    "op": "value",
+    "n": -15
+   }
+  ]
+ },
+ "EDR_482": {
+  "play": [
+   {
+    "op": "heal_hero",
+    "n": 12
+   },
+   {
+    "op": "value",
+    "n": -25
+   }
+  ]
+ },
+ "EDR_483": {
+  "play": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "EDR_491": {
+  "play": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "FIR_955": {
+  "pv": 4
+ },
+ "EDR_654": {
+  "play": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "FIR_924": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 2
+   }
+  ]
+ },
+ "EDR_490": {
+  "modes": [
+   [
+    {
+     "op": "summon",
+     "n": 2,
+     "a": 0,
+     "h": 6,
+     "kw": [
+      "taunt"
+     ]
+    }
+   ],
+   [
+    {
+     "op": "destroy",
+     "tgt": "enemy_minion"
+    }
+   ]
+  ]
+ },
+ "EDR_487": {},
+ "EDR_494": {
+  "eot": [
+   {
+    "op": "value",
+    "n": 20
+   }
+  ]
+ },
+ "EDR_489": {
+  "play": [
+   {
+    "op": "value",
+    "n": 30
+   }
+  ]
+ },
+ "EDR_531": {
+  "play": [
+   {
+    "op": "armor",
+    "n": 8
+   },
+   {
+    "op": "value",
+    "n": -40
+   }
+  ]
+ },
+ "EDR_570": {
+  "modes": [
+   [
+    {
+     "op": "aoe",
+     "n": 1,
+     "scope": "minions"
+    }
+   ],
+   [
+    {
+     "op": "buff",
+     "a": 2,
+     "h": 2,
+     "tgt": "friendly_minion"
+    }
+   ]
+  ]
+ },
+ "EDR_455": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 5,
+    "h": 5
+   }
+  ]
+ },
+ "EDR_459": {
+  "play": [
+   {
+    "op": "aoe",
+    "n": 3,
+    "scope": "other_minions"
+   },
+   {
+    "op": "value",
+    "n": 0
+   }
+  ],
+  "dr": [
+   {
+    "op": "aoe",
+    "n": 3,
+    "scope": "enemy_minions"
+   }
+  ]
+ },
+ "FIR_928": {
+  "play": [
+   {
+    "op": "hand_buff",
+    "a": 3,
+    "h": 3
+   },
+   {
+    "op": "value",
+    "n": -15
+   }
+  ]
+ },
+ "EDR_465": {
+  "dr": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 4,
+    "h": 4
+   }
+  ]
+ },
+ "EDR_471": {
+  "pv": 10
+ },
+ "TLC_EVENT_402": {},
+ "JAIL_EVENT_101": {
+  "play": [
+   {
+    "op": "value",
+    "n": 30
+   }
+  ]
+ },
+ "CATA_EVENT_400": {
+  "play": [
+   {
+    "op": "value",
+    "n": 20
+   }
+  ]
+ },
+ "TIME_EVENT_999": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "TLC_EVENT_400": {
+  "play": [
+   {
+    "op": "value",
+    "n": 20
+   }
+  ]
+ },
+ "JAIL_EVENT_100": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   }
+  ]
+ },
+ "CATA_EVENT_401": {},
+ "EDR_950": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": 5
+   }
+  ]
+ },
+ "TIME_EVENT_997": {
+  "play": [
+   {
+    "op": "value",
+    "n": 20
+   }
+  ]
+ },
+ "CATA_EVENT_000": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "CATA_EVENT_110": {
+  "play": [
+   {
+    "op": "value",
+    "n": 40
+   }
+  ]
+ },
+ "TIME_EVENT_301": {
+  "play": [
+   {
+    "op": "destroy_random"
+   }
+  ]
+ },
+ "TIME_EVENT_998": {
+  "play": [
+   {
+    "op": "value",
+    "n": 20
+   }
+  ]
+ },
+ "CATA_EVENT_402": {
+  "play": [
+   {
+    "op": "destroy",
+    "tgt": "enemy_minion"
+   },
+   {
+    "op": "value",
+    "n": -10
+   }
+  ]
+ },
+ "JAIL_EVENT_102": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 2,
+    "a": 3,
+    "h": 4
+   },
+   {
+    "op": "value",
+    "n": -15
+   }
+  ]
+ },
+ "CATA_EVENT_001": {
+  "play": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "RLK_503": {
+  "play": [
+   {
+    "op": "corpse",
+    "n": 1
+   }
+  ]
+ },
+ "RLK_958": {
+  "play": [
+   {
+    "op": "buff",
+    "a": 2,
+    "h": 0,
+    "tgt": "friendly_minion"
+   }
+  ]
+ },
+ "CORE_EDR_002": {
+  "play": [
+   {
+    "op": "buff",
+    "a": 0,
+    "h": 0,
+    "kw": [
+     "poisonous"
+    ],
+    "tgt": "friendly_minion"
+   }
+  ]
+ },
+ "CORE_RLK_066": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   }
+  ]
+ },
+ "CORE_RLK_083": {
+  "pv": 5
+ },
+ "CORE_RLK_712": {
+  "play": [
+   {
+    "op": "hand_buff",
+    "a": 2,
+    "h": 2
+   }
+  ]
+ },
+ "RLK_061": {
+  "eot": [
+   {
+    "op": "summon_corpse",
+    "n": 1,
+    "a": 1,
+    "h": 3,
+    "kw": [
+     "taunt"
+    ]
+   }
+  ]
+ },
+ "CORE_EDR_003": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   }
+  ]
+ },
+ "CORE_ETC_523": {},
+ "CORE_RLK_121": {
+  "pv": 4
+ },
+ "CORE_WW_374": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 5,
+    "h": 5
+   }
+  ]
+ },
+ "CORE_RLK_118": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 2,
+    "a": 2,
+    "h": 2,
+    "kw": [
+     "taunt"
+    ]
+   },
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "CORE_RLK_745": {
+  "pv": 4
+ },
+ "RLK_707": {
+  "play": [
+   {
+    "op": "buff_all_corpse",
+    "a": 1,
+    "h": 3,
+    "n": 5
+   }
+  ]
+ },
+ "RLK_060": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 4,
+    "a": 2,
+    "h": 2,
+    "kw": [
+     "rush"
+    ]
+   }
+  ]
+ },
+ "CORE_RLK_086": {},
+ "CORE_RLK_505": {
+  "play": [
+   {
+    "op": "dmg_random",
+    "n": 8
+   }
+  ]
+ },
+ "RLK_720": {
+  "eot": [
+   {
+    "op": "dmg_random",
+    "n": 5
+   }
+  ]
+ },
+ "CORE_RLK_706": {
+  "play": [
+   {
+    "op": "value",
+    "n": 60
+   }
+  ],
+  "eot": [
+   {
+    "op": "face",
+    "n": 3
+   }
+  ]
+ },
+ "CORE_RLK_506": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 4,
+    "a": 1,
+    "h": 3,
+    "kw": [
+     "taunt"
+    ]
+   }
+  ]
+ },
+ "CORE_BT_351": {
+  "pv": 2
+ },
+ "CORE_BT_480": {
+  "play": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "CORE_YOP_001": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   }
+  ]
+ },
+ "CORE_BT_187": {
+  "pv": 6
+ },
+ "CORE_BT_416": {
+  "play": [
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "CORE_TTN_843": {
+  "pv": 6
+ },
+ "CORE_BT_510": {
+  "pv": 3
+ },
+ "CORE_BT_493": {
+  "eot": [
+   {
+    "op": "dmg_random",
+    "n": 6
+   }
+  ]
+ },
+ "CORE_TTN_866": {
+  "pv": 6
+ },
+ "CS3_020": {
+  "pv": 6
+ },
+ "CORE_CATA_001": {
+  "pv": 8
+ },
+ "CORE_AT_037": {
+  "modes": [
+   [
+    {
+     "op": "dmg",
+     "n": 2,
+     "tgt": "enemy_char"
+    }
+   ],
+   [
+    {
+     "op": "summon",
+     "n": 2,
+     "a": 1,
+     "h": 1
+    }
+   ]
+  ]
+ },
+ "Core_LOE_115": {
+  "modes": [
+   [
+    {
+     "op": "draw",
+     "n": 1
+    }
+   ],
+   [
+    {
+     "op": "draw",
+     "n": 1
+    }
+   ]
+  ]
+ },
+ "CORE_SW_439": {
+  "dr": [
+   {
+    "op": "value",
+    "n": 30
+   }
+  ]
+ },
+ "CORE_EX1_154": {
+  "modes": [
+   [
+    {
+     "op": "dmg",
+     "n": 3,
+     "tgt": "enemy_minion"
+    }
+   ],
+   [
+    {
+     "op": "dmg",
+     "n": 1,
+     "tgt": "enemy_minion"
+    },
+    {
+     "op": "draw",
+     "n": 1
+    }
+   ]
+  ]
+ },
+ "CORE_EX1_160": {
+  "modes": [
+   [
+    {
+     "op": "buff_all",
+     "a": 1,
+     "h": 1,
+     "scope": "mine"
+    }
+   ],
+   [
+    {
+     "op": "summon",
+     "n": 1,
+     "a": 3,
+     "h": 2
+    }
+   ]
+  ]
+ },
+ "CORE_TRL_240": {
+  "play": [
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "CORE_ULD_133": {
+  "pv": 4
+ },
+ "CORE_OG_047": {
+  "modes": [
+   [
+    {
+     "op": "hero_atk",
+     "n": 4
+    }
+   ],
+   [
+    {
+     "op": "armor",
+     "n": 8
+    }
+   ]
+  ]
+ },
+ "CORE_LOOT_309": {
+  "play": [
+   {
+    "op": "armor",
+    "n": 6
+   },
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 3,
+    "h": 4
+   }
+  ]
+ },
+ "CORE_OG_044": {
+  "pv": 5
+ },
+ "CORE_ONY_018": {
+  "modes": [
+   [
+    {
+     "op": "heal_hero",
+     "n": 8
+    }
+   ],
+   [
+    {
+     "op": "dmg",
+     "n": 4,
+     "tgt": "enemy_char"
+    }
+   ]
+  ]
+ },
+ "CORE_TSC_650": {
+  "modes": [
+   [
+    {
+     "op": "summon",
+     "n": 1,
+     "a": 6,
+     "h": 6,
+     "kw": [
+      "taunt"
+     ]
+    }
+   ],
+   [
+    {
+     "op": "summon",
+     "n": 6,
+     "a": 1,
+     "h": 1,
+     "kw": [
+      "rush"
+     ]
+    }
+   ]
+  ]
+ },
+ "CORE_CATA_006": {
+  "play": [
+   {
+    "op": "value",
+    "n": 35
+   }
+  ]
+ },
+ "CORE_EX1_610": {
+  "play": [
+   {
+    "op": "value",
+    "n": 25
+   }
+  ]
+ },
+ "CORE_EX1_611": {
+  "play": [
+   {
+    "op": "value",
+    "n": 30
+   }
+  ]
+ },
+ "CORE_GIL_577": {
+  "play": [
+   {
+    "op": "value",
+    "n": 30
+   }
+  ]
+ },
+ "CORE_TRL_111": {},
+ "CORE_ULD_152": {
+  "play": [
+   {
+    "op": "value",
+    "n": 30
+   }
+  ]
+ },
+ "CORE_BT_201": {
+  "dr": [
+   {
+    "op": "dmg_random",
+    "n": 2
+   }
+  ]
+ },
+ "CORE_DRG_256": {
+  "pv": 6
+ }
+}

@@ -1,0 +1,307 @@
+{
+ "BE_251": {
+  "activate": [
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": 8
+   }
+  ]
+ },
+ "BE_561": {
+  "activate": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 3,
+    "h": 3,
+    "kw": [
+     "taunt"
+    ]
+   }
+  ]
+ },
+ "BE_780": {
+  "activate": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 5,
+    "h": 5
+   },
+   {
+    "op": "value",
+    "n": -15
+   }
+  ]
+ },
+ "CATA_301": {
+  "activate": [
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "CATA_477": {
+  "activate": [
+   {
+    "op": "hand_buff",
+    "a": 2,
+    "h": 2
+   },
+   {
+    "op": "value",
+    "n": -5
+   }
+  ]
+ },
+ "CATA_492": {
+  "activate": [
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "CATA_527": {
+  "activate": [
+   {
+    "op": "dmg",
+    "n": 1,
+    "tgt": "enemy_char"
+   }
+  ],
+  "dr": [
+   {
+    "op": "value",
+    "n": 20
+   }
+  ]
+ },
+ "CATA_584": {
+  "activate": [
+   {
+    "op": "dmg_random",
+    "n": 3
+   }
+  ]
+ },
+ "CORE_REV_990": {
+  "activate": [
+   {
+    "op": "buff",
+    "a": 2,
+    "h": -1,
+    "tgt": "friendly_minion"
+   }
+  ]
+ },
+ "EDR_454": {
+  "activate": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 0,
+    "h": 2
+   },
+   {
+    "op": "value",
+    "n": 20
+   }
+  ]
+ },
+ "EDR_520": {
+  "activate": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "FIR_907": {
+  "activate": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 1,
+    "h": 2
+   },
+   {
+    "op": "armor",
+    "n": 1
+   },
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "mana",
+    "n": 1
+   }
+  ]
+ },
+ "JAIL_511": {
+  "activate": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 5,
+    "h": 5
+   },
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "JAIL_877": {
+  "activate": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 2,
+    "h": 1
+   },
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "JAIL_887": {
+  "activate": [
+   {
+    "op": "discard",
+    "n": 1
+   },
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 5,
+    "h": 5,
+    "kw": [
+     "taunt"
+    ]
+   }
+  ]
+ },
+ "JAIL_987": {
+  "activate": [
+   {
+    "op": "draw",
+    "n": 1
+   }
+  ]
+ },
+ "MEND_044": {
+  "activate": [
+   {
+    "op": "buff",
+    "a": 0,
+    "h": 2,
+    "kw": [
+     "taunt"
+    ],
+    "tgt": "friendly_minion"
+   }
+  ]
+ },
+ "TIME_044": {
+  "activate": [
+   {
+    "op": "buff",
+    "a": 2,
+    "h": 1,
+    "tgt": "friendly_minion"
+   },
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "TIME_436": {
+  "activate": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 6,
+    "h": 6
+   },
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "TIME_446": {
+  "activate": [
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "TIME_810": {
+  "activate": [
+   {
+    "op": "dmg_random_minions",
+    "n": 5,
+    "a": 1
+   },
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "TLC_449": {
+  "activate": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "CATA_190h": {
+  "play": [
+   {
+    "op": "armor",
+    "n": 12
+   },
+   {
+    "op": "value",
+    "n": 60
+   }
+  ]
+ },
+ "CORE_EX1_323": {
+  "play": [
+   {
+    "op": "weapon",
+    "a": 3,
+    "h": 8
+   },
+   {
+    "op": "armor",
+    "n": 5
+   },
+   {
+    "op": "value",
+    "n": 40
+   }
+  ]
+ }
+}

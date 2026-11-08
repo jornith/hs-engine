@@ -1,0 +1,39 @@
+{
+ "CATA_785": {
+  "play": [
+   {
+    "op": "value",
+    "n": 15
+   },
+   {
+    "op": "dmg",
+    "n": 3,
+    "tgt": "any_char",
+    "cond": "combo"
+   },
+   {
+    "op": "gen",
+    "n": 1
+   }
+  ],
+  "_why": "Herald + Combo: the 3 damage (any character, real players also hit their own minions) only if a card was played before it this turn (cards_played counter)"
+ },
+ "CATA_EVENT_402": {
+  "play": [
+   {
+    "op": "destroy",
+    "tgt": "any_minion"
+   },
+   {
+    "op": "value",
+    "n": -10
+   },
+   {
+    "op": "gen",
+    "n": 1,
+    "cond": "combo"
+   }
+  ],
+  "_why": "Destroy a minion (any: real targets are often my own minions); Combo: I get a Coin too (hand +1 only with a card played before)"
+ }
+}

@@ -1,0 +1,5 @@
+{
+ "DINO_402": {"play": [{"op": "mask_fill", "n": 1}], "_why": "the weakest friendly minion becomes 1/1, then 1/1 minions fill the board"},
+ "CATA_533": {"play": [{"op": "aoe", "n": 10, "scope": "enemy_minions"}]},
+ "JAIL_454": {"play": [{"op": "dmg", "n": 12, "tgt": "enemy_minion"}, {"op": "summon", "n": 2, "a": 3, "h": 1, "kw": ["lifesteal"]}, {"op": "heal_hero", "n": 6}]}
+}

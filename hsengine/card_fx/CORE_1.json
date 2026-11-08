@@ -1,0 +1,600 @@
+{
+ "CORE_TRL_900": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 5
+   },
+   {
+    "op": "value",
+    "n": -40
+   }
+  ]
+ },
+ "CORE_DAL_575": {
+  "pv": 6
+ },
+ "CORE_BAR_812": {
+  "play": [
+   {
+    "op": "value",
+    "n": 30
+   }
+  ]
+ },
+ "CORE_EX1_287": {
+  "play": [
+   {
+    "op": "value",
+    "n": 30
+   }
+  ]
+ },
+ "CORE_EX1_289": {
+  "play": [
+   {
+    "op": "value",
+    "n": 25
+   }
+  ]
+ },
+ "CORE_LOOT_101": {
+  "play": [
+   {
+    "op": "value",
+    "n": 35
+   }
+  ]
+ },
+ "CORE_BOT_256": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 5,
+    "h": 5
+   }
+  ]
+ },
+ "CORE_EX1_559": {
+  "pv": 10
+ },
+ "CORE_EX1_509": {
+  "pv": 2
+ },
+ "CORE_WON_351": {
+  "pv": 2
+ },
+ "CORE_BT_156": {
+  "pv": -3
+ },
+ "CORE_CFM_790": {
+  "play": [
+   {
+    "op": "enemy_summon",
+    "a": 3,
+    "h": 3
+   },
+   {
+    "op": "value",
+    "n": 5
+   }
+  ]
+ },
+ "CORE_DMF_067": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": -8
+   }
+  ],
+  "dr": [
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": -8
+   }
+  ]
+ },
+ "CORE_EX1_058": {
+  "play": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "CORE_EX1_059": {
+  "play": [
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "CORE_EX1_100": {},
+ "CORE_EX1_162": {
+  "pv": 2
+ },
+ "CORE_GVG_085": {},
+ "CORE_GVG_103": {
+  "pv": 3
+ },
+ "CORE_NEW1_018": {
+  "play": [
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "CORE_NEW1_020": {
+  "pv": 3
+ },
+ "CORE_NEW1_021": {
+  "pv": 4
+ },
+ "CORE_SCH_713": {
+  "play": [
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "CORE_ULD_271": {
+  "play": [
+   {
+    "op": "value",
+    "n": -15
+   }
+  ]
+ },
+ "CORE_CS2_122": {
+  "aura": [
+   1,
+   0
+  ]
+ },
+ "CORE_DRG_403": {
+  "play": [
+   {
+    "op": "value",
+    "n": 5
+   }
+  ]
+ },
+ "CORE_EDR_004_2026": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "CORE_EX1_007": {
+  "pv": 5
+ },
+ "CORE_EX1_103": {
+  "play": [
+   {
+    "op": "value",
+    "n": 8
+   }
+  ]
+ },
+ "CORE_EX1_507": {
+  "pv": 4
+ },
+ "CORE_GIL_534": {
+  "pv": 2
+ },
+ "CORE_NEW1_027": {
+  "pv": 3
+ },
+ "CORE_REV_023": {
+  "play": [
+   {
+    "op": "value",
+    "n": 5
+   }
+  ]
+ },
+ "CORE_SW_072": {
+  "play": [
+   {
+    "op": "destroy_weapon"
+   }
+  ]
+ },
+ "CORE_UNG_928": {
+  "pv": 3
+ },
+ "CORE_WON_141": {
+  "play": [
+   {
+    "op": "buff_all",
+    "a": 1,
+    "h": 1,
+    "scope": "others"
+   }
+  ]
+ },
+ "CORE_ETC_111": {
+  "pv": -2
+ },
+ "CORE_NEW1_022": {},
+ "CORE_CFM_344": {
+  "pv": 8
+ },
+ "CORE_GIL_623": {
+  "play": [
+   {
+    "op": "self_hp_enemy_hand",
+    "n": 1
+   }
+  ]
+ },
+ "CORE_REV_946": {},
+ "CORE_SCH_605": {
+  "pv": 4
+ },
+ "CS3_024": {
+  "dr": [
+   {
+    "op": "draw",
+    "n": 1
+   }
+  ]
+ },
+ "CS3_025": {
+  "pv": 5
+ },
+ "CORE_DRG_079": {},
+ "CORE_CS2_222": {
+  "aura": [
+   1,
+   1
+  ]
+ },
+ "CORE_GVG_114": {
+  "dr": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 5,
+    "h": 5
+   }
+  ]
+ },
+ "CORE_SCH_717": {
+  "pv": 8
+ },
+ "CORE_ULD_178": {
+  "play": [
+   {
+    "op": "value",
+    "n": 25
+   }
+  ]
+ },
+ "CS3_035": {},
+ "CORE_CFM_670": {
+  "pv": -2
+ },
+ "CORE_WON_145": {
+  "play": [
+   {
+    "op": "value",
+    "n": 50
+   }
+  ]
+ },
+ "CORE_YOP_034": {
+  "eot": [
+   {
+    "op": "dmg_random_minions",
+    "n": 10,
+    "a": 1
+   }
+  ]
+ },
+ "CORE_ICC_038": {},
+ "TTN_851": {
+  "play": [
+   {
+    "op": "value",
+    "n": 25
+   }
+  ]
+ },
+ "CORE_GVG_059": {},
+ "CORE_BAR_878": {
+  "pv": 6
+ },
+ "CORE_KAR_057": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "heal_hero",
+    "n": 4
+   }
+  ]
+ },
+ "CORE_UNG_952": {
+  "play": [
+   {
+    "op": "buff",
+    "a": 2,
+    "h": 6,
+    "kw": [
+     "taunt"
+    ],
+    "tgt": "friendly_minion"
+   },
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "CORE_SW_047": {
+  "pv": 6
+ },
+ "CORE_EX1_383": {},
+ "CORE_EX1_193": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   }
+  ]
+ },
+ "CORE_ICC_210": {
+  "eot": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "CORE_CATA_002": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 6,
+    "h": 6
+   }
+  ]
+ },
+ "CORE_EX1_198": {
+  "play": [
+   {
+    "op": "destroy",
+    "tgt": "enemy_minion"
+   },
+   {
+    "op": "value",
+    "n": 20
+   }
+  ]
+ },
+ "CORE_ICC_214": {
+  "dr": [
+   {
+    "op": "destroy_random"
+   }
+  ]
+ },
+ "CORE_EX1_145": {
+  "play": [
+   {
+    "op": "mana",
+    "n": 2
+   }
+  ]
+ },
+ "CORE_RLK_567": {
+  "play": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "CORE_DMF_511": {
+  "play": [
+   {
+    "op": "mana",
+    "n": 2
+   }
+  ]
+ },
+ "CORE_EX1_131": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 2,
+    "h": 1
+   }
+  ]
+ },
+ "CORE_CFM_781": {
+  "pv": 5
+ },
+ "CORE_EX1_134": {
+  "play": [
+   {
+    "op": "dmg",
+    "n": 3,
+    "tgt": "enemy_char"
+   }
+  ]
+ },
+ "CORE_DAL_720": {},
+ "CORE_ULD_280": {
+  "dr": [
+   {
+    "op": "value",
+    "n": 20
+   }
+  ]
+ },
+ "CORE_BOT_576": {
+  "play": [
+   {
+    "op": "buff",
+    "a": 4,
+    "h": 0,
+    "tgt": "friendly_minion"
+   }
+  ]
+ },
+ "CORE_GIL_836": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": 5
+   }
+  ]
+ },
+ "CORE_WC_042": {
+  "pv": 2
+ },
+ "CS3_007": {},
+ "CORE_AT_052": {},
+ "CORE_CS2_053": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "CORE_LOOT_373": {
+  "play": [
+   {
+    "op": "heal_all",
+    "n": 6,
+    "scope": "chars"
+   }
+  ]
+ },
+ "CORE_CATA_004": {
+  "pv": 6
+ },
+ "CORE_EX1_250": {},
+ "CORE_OG_031": {},
+ "CORE_AV_107": {
+  "play": [
+   {
+    "op": "value",
+    "n": 30
+   }
+  ]
+ },
+ "CORE_TRL_345": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 2
+   }
+  ]
+ },
+ "CORE_YOD_026": {
+  "dr": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "CORE_ICC_407": {
+  "play": [
+   {
+    "op": "value",
+    "n": 5
+   }
+  ]
+ },
+ "CORE_ULD_165": {
+  "play": [
+   {
+    "op": "destroy",
+    "tgt": "enemy_minion"
+   },
+   {
+    "op": "value",
+    "n": -20
+   }
+  ]
+ },
+ "CORE_SCH_181": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 2,
+    "a": 5,
+    "h": 5
+   }
+  ]
+ },
+ "CORE_LOOT_044": {},
+ "CORE_BT_120": {
+  "play": [
+   {
+    "op": "destroy",
+    "tgt": "enemy_minion"
+   },
+   {
+    "op": "value",
+    "n": -10
+   }
+  ]
+ },
+ "CORE_BT_781": {},
+ "CORE_EX1_604": {
+  "pv": 5
+ },
+ "CORE_NX2_028": {
+  "pv": 6
+ },
+ "CORE_OG_218": {
+  "pv": 3
+ },
+ "CORE_WW_329": {
+  "play": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "CORE_EX1_414": {
+  "pv": 6
+ }
+}

@@ -1,0 +1,748 @@
+{
+ "MEND_801": {
+  "pv": 2
+ },
+ "MEND_805": {
+  "play": [
+   {
+    "op": "value",
+    "n": 25
+   }
+  ]
+ },
+ "CATA_474": {
+  "eot": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "CATA_479": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 2,
+    "a": 4,
+    "h": 2
+   },
+   {
+    "op": "buff_all",
+    "a": 1,
+    "h": 0,
+    "kw": [
+     "divine"
+    ],
+    "scope": "mine"
+   }
+  ]
+ },
+ "MEND_900": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 4,
+    "a": 1,
+    "h": 1
+   },
+   {
+    "op": "value",
+    "n": 20
+   }
+  ]
+ },
+ "CATA_473": {
+  "eot": [
+   {
+    "op": "buff_all",
+    "a": 0,
+    "h": 0,
+    "kw": [
+     "divine"
+    ],
+    "scope": "mine"
+   }
+  ],
+  "pv": 6
+ },
+ "CATA_478": {
+  "eot": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 3,
+    "h": 3
+   }
+  ]
+ },
+ "MEND_803": {},
+ "MEND_804": {
+  "play": [
+   {
+    "op": "value",
+    "n": 25
+   }
+  ]
+ },
+ "CATA_475": {
+  "eot": [
+   {
+    "op": "aoe",
+    "n": 2,
+    "scope": "enemies"
+   }
+  ]
+ },
+ "CATA_432": {
+  "pv": 15
+ },
+ "CATA_304": {
+  "play": [
+   {
+    "op": "value",
+    "n": -15
+   }
+  ]
+ },
+ "CATA_216": {
+  "play": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "CATA_305": {
+  "pv": 3
+ },
+ "CATA_306": {
+  "play": [
+   {
+    "op": "buff",
+    "a": 2,
+    "h": 3,
+    "tgt": "friendly_minion"
+   },
+   {
+    "op": "value",
+    "n": 40
+   }
+  ]
+ },
+ "CATA_300": {
+  "pv": 8
+ },
+ "CATA_307": {
+  "play": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "CATA_200": {
+  "play": [
+   {
+    "op": "value",
+    "n": 5
+   }
+  ]
+ },
+ "CATA_203": {
+  "play": [
+   {
+    "op": "destroy",
+    "tgt": "enemy_minion"
+   }
+  ]
+ },
+ "CATA_785": {
+  "play": [
+   {
+    "op": "value",
+    "n": 15
+   },
+   {
+    "op": "dmg",
+    "n": 3,
+    "tgt": "enemy_char"
+   }
+  ]
+ },
+ "CATA_158": {
+  "dr": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 1,
+    "h": 2
+   },
+   {
+    "op": "value",
+    "n": 3
+   }
+  ]
+ },
+ "CATA_202": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": 5
+   }
+  ]
+ },
+ "CATA_215": {
+  "play": [
+   {
+    "op": "bounce",
+    "tgt": "enemy_minion"
+   },
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "CATA_786": {
+  "pv": 6
+ },
+ "CATA_481": {
+  "play": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "CATA_154": {
+  "pv": 8
+ },
+ "CATA_201": {
+  "play": [
+   {
+    "op": "bounce_all"
+   }
+  ]
+ },
+ "CATA_561": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 1,
+    "h": 2
+   },
+   {
+    "op": "value",
+    "n": 23
+   }
+  ]
+ },
+ "CATA_565": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 1,
+    "h": 2
+   },
+   {
+    "op": "value",
+    "n": 3
+   }
+  ]
+ },
+ "CATA_563": {
+  "play": [
+   {
+    "op": "value",
+    "n": 5
+   }
+  ],
+  "dr": [
+   {
+    "op": "value",
+    "n": 25
+   }
+  ]
+ },
+ "CATA_567": {
+  "play": [
+   {
+    "op": "value",
+    "n": 30
+   }
+  ]
+ },
+ "CATA_569": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 3,
+    "h": 4
+   },
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 2,
+    "h": 3
+   },
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 1,
+    "h": 2
+   }
+  ]
+ },
+ "CATA_724": {
+  "dr": [
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "CATA_564": {
+  "play": [
+   {
+    "op": "buff",
+    "a": 0,
+    "h": 0,
+    "kw": [
+     "windfury"
+    ],
+    "tgt": "friendly_minion"
+   },
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "CATA_153": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 2,
+    "a": 1,
+    "h": 2
+   },
+   {
+    "op": "value",
+    "n": 25
+   }
+  ],
+  "pv": 8
+ },
+ "CATA_570": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": 20
+   }
+  ]
+ },
+ "CATA_496": {
+  "play": [
+   {
+    "op": "freeze",
+    "tgt": "enemy_minion"
+   },
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "CATA_499": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 2,
+    "a": 1,
+    "h": 2
+   }
+  ]
+ },
+ "CATA_725": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 1,
+    "h": 2
+   },
+   {
+    "op": "value",
+    "n": 3
+   }
+  ],
+  "dr": [
+   {
+    "op": "heal_hero",
+    "n": 3
+   }
+  ]
+ },
+ "CATA_490": {
+  "play": [
+   {
+    "op": "discard",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "CATA_493": {
+  "pv": 4
+ },
+ "CATA_491": {
+  "play": [
+   {
+    "op": "aoe",
+    "n": 3,
+    "scope": "minions"
+   },
+   {
+    "op": "aoe",
+    "n": 2,
+    "scope": "minions"
+   },
+   {
+    "op": "aoe",
+    "n": 1,
+    "scope": "minions"
+   }
+  ]
+ },
+ "CATA_494": {
+  "pv": 6
+ },
+ "CATA_726": {
+  "pv": 10
+ },
+ "CATA_585": {
+  "play": [
+   {
+    "op": "destroy",
+    "tgt": "enemy_minion",
+    "cond": "damaged"
+   }
+  ]
+ },
+ "CATA_580": {},
+ "CATA_160": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 1,
+    "h": 2
+   },
+   {
+    "op": "value",
+    "n": 8
+   }
+  ]
+ },
+ "CATA_586": {
+  "pv": 4,
+  "dr": [
+   {
+    "op": "dmg_random",
+    "n": 2
+   }
+  ]
+ },
+ "CATA_610": {
+  "play": [
+   {
+    "op": "value",
+    "n": 30
+   }
+  ]
+ },
+ "CATA_591": {
+  "play": [
+   {
+    "op": "value",
+    "n": 30
+   }
+  ]
+ },
+ "CATA_150": {
+  "pv": 15
+ },
+ "END_017": {
+  "play": [
+   {
+    "op": "value",
+    "n": 20
+   }
+  ]
+ },
+ "END_022": {
+  "pv": 2
+ },
+ "END_011": {
+  "play": [
+   {
+    "op": "value",
+    "n": 30
+   }
+  ]
+ },
+ "END_029": {
+  "eot": [
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "END_001": {},
+ "END_008": {
+  "pv": 4
+ },
+ "END_031": {},
+ "END_016": {},
+ "END_026": {
+  "pv": 4
+ },
+ "END_032": {
+  "pv": 2
+ },
+ "END_005": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 4,
+    "h": 4
+   },
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "END_023": {
+  "play": [
+   {
+    "op": "freeze",
+    "tgt": "enemy_minion"
+   },
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "END_010": {
+  "modes": [
+   [
+    {
+     "op": "value",
+     "n": 25
+    }
+   ],
+   [
+    {
+     "op": "all_hp",
+     "n": 1
+    }
+   ]
+  ]
+ },
+ "END_004": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 2
+   }
+  ]
+ },
+ "TIME_613": {
+  "dr": [
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "TIME_611": {
+  "play": [
+   {
+    "op": "dmg",
+    "n": 3,
+    "tgt": "enemy_char"
+   },
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "END_003": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": 25
+   }
+  ]
+ },
+ "TIME_612": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "TIME_616": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 1,
+    "a": 5,
+    "h": 5
+   }
+  ]
+ },
+ "TIME_617": {
+  "pv": -6
+ },
+ "TIME_618": {
+  "play": [
+   {
+    "op": "value",
+    "n": 30
+   }
+  ]
+ },
+ "TIME_619": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   },
+   {
+    "op": "value",
+    "n": 30
+   }
+  ]
+ },
+ "TIME_610": {
+  "play": [
+   {
+    "op": "summon",
+    "n": 4,
+    "a": 3,
+    "h": 2
+   },
+   {
+    "op": "value",
+    "n": 30
+   }
+  ]
+ },
+ "TIME_615": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 5
+   }
+  ]
+ },
+ "TIME_444": {},
+ "TIME_020": {},
+ "TIME_441": {
+  "play": [
+   {
+    "op": "dmg_random",
+    "n": 4
+   },
+   {
+    "op": "dmg_random",
+    "n": 4
+   },
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "TIME_442": {
+  "play": [
+   {
+    "op": "bounce",
+    "tgt": "enemy_minion"
+   },
+   {
+    "op": "value",
+    "n": 15
+   }
+  ]
+ },
+ "TIME_021": {
+  "pv": 2
+ },
+ "TIME_022": {},
+ "TIME_701": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 1
+   }
+  ]
+ },
+ "TIME_707": {
+  "play": [
+   {
+    "op": "value",
+    "n": 10
+   }
+  ]
+ },
+ "TIME_730": {
+  "play": [
+   {
+    "op": "value",
+    "n": 25
+   }
+  ]
+ },
+ "TIME_023": {
+  "play": [
+   {
+    "op": "draw",
+    "n": 2
+   }
+  ]
+ }
+}
